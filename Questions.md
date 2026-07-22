@@ -1,6 +1,6 @@
 # Strong AI Seminar — Review Questions & Answers
 
-This file collects every question posed in the slide decks (agenda questions, main/secondary questions on individual slides, and open "????" questions) and answers each in detail. Organized by session (module). Session A is completed below; Sessions B–L (Intelligence, Reality, Time and Space, Information, Action, Concept, Memory, Mind, Language, Motion, Brain) will follow in the same format.
+This file collects every question posed in the slide decks (agenda questions, main/secondary questions on individual slides, workshop and repetition prompts, and open "????" questions) and answers each in detail. Organized by session (module): A (Singularities), B (Intelligence), C (Reality), D (Time and Space), E (Information), F (Action), G (Concept), H (Memory), I (Mind), J (Language), K (Motion), and L (Brain). All twelve sessions are complete.
 
 ---
 
