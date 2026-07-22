@@ -246,3 +246,305 @@ In computer science, this perfectly illustrates the separation of **CPU/RAM** (M
 ### Conceptual Explanation
 
 This is a structural transition slide, opening the second section of the module's agenda. Having defined the basic tasks of reading and writing data (Persistencing and Recalling), the presenter now moves to the mechanics of *how* the mind actually executes a recall: through "Associating."
+
+---
+
+# Slide 13: Reasons for Remembering
+
+- Header: **Reasons for Remembering**
+- Core Drivers of Recall:
+  1. **Impressions**: recalling persisted information on base of similar schemas.
+  2. **Uncomplete Concepts**: keep us thinking a lot to fill information gaps.
+  3. **Associative recall**: draws associated entities (memories) out of the memory.
+  4. **...**
+
+### Conceptual Explanation
+
+This slide defines the "triggers" that force the brain to execute a `read()` command from its memory banks. The brain doesn't just read data randomly; it queries memory for specific reasons:
+1. When a new physical input perfectly matches a stored template (Impressions).
+2. When the brain detects a missing variable in an active schema and searches past data to find it (Incomplete Concepts / Knowledge Gaps).
+3. When one memory automatically pulls up adjacent, linked memories traversing the graph (Associative recall).
+
+### Why this matters
+
+For AI, this defines the architecture of a **Search Query Engine**. An AI shouldn't just dump its entire database on every prompt. It should query memory via pattern matching (vector search for "impressions"), algorithmically search for missing parameters (SQL joins for "incomplete concepts"), or traverse connected nodes (graph search for "associative recall").
+
+### Interpretive note
+
+- The typos *"Uncomplete"* (incomplete) and *"entites"* (entities) are preserved from the original text.
+
+---
+
+# Slide 14: Remembering by Impressions
+
+- Header: **2. Remembering**
+- Subtitle: **by Impressions**
+- Core Visual:
+  - **Left**: A `physical eye` observing the real Eiffel Tower.
+  - **Middle**: An empty `mental eye`.
+  - **Right**: The Brain containing the persisted schema for the Eiffel Tower and its names.
+
+### Conceptual Explanation
+
+This slide illustrates the first reason for remembering: "Impressions." 
+
+When the physical eye sees the real Eiffel Tower, that raw pixel data hits the mental eye as an "impression." The brain immediately takes that impression and runs a pattern-matching search against its persisted memory. Once it finds a schema that matches the geometry of the physical object, it "remembers" it, instantly loading the associated string variables (La tour Eiffel, etc.) into active thought.
+
+### Why this matters
+
+This is the exact mechanism of **Computer Vision and Vector Databases**. An AI takes an image, converts it to a vector embedding (the mental impression), and runs a cosine similarity search against its vector database. When it finds the closest mathematical match, it "remembers" what the object is and retrieves the associated metadata.
+
+---
+
+# Slide 15: Remembering by Uncomplete Concepts
+
+- Header: **2. Remembering**
+- Subtitle: **by Uncomplete Concepts**
+- Core Visual:
+  - **Left**: A blank oval (no physical input).
+  - **Right**: The massive "Family Graph" from the previous module. However, the node for "Entity A" has been replaced with a massive **?** box. 
+
+### Conceptual Explanation
+
+This slide illustrates the second reason for remembering. Notice the left oval is empty; there is no physical eye seeing a physical object. This recall is driven entirely internally by a logical void. 
+
+The active mind is trying to process a family schema, but it realizes it is missing the identity of "Entity A" (the Daughter/Mother/Wife). This empty variable (the `?`) creates cognitive discomfort (a "Knowledge Gap"). This discomfort triggers an active memory search, forcing the mind to scour its persisted history to find the missing entity that fulfills all those intersecting counterpart roles.
+
+### Why this matters
+
+In software engineering, this is identical to an **SQL Query with JOINs**. The system has a table of roles but a missing `FOREIGN KEY`. The AI executes a query: `SELECT Entity FROM Memory WHERE Role1 = 'Daughter of C' AND Role2 = 'Wife of E'`. The missing variable (the uncomplete concept) is the sole driver of the memory retrieval process.
+
+---
+
+# Slide 16: Section 3 Transition
+
+- Header: **3 Forgetting**
+- Subtitle: **No Usage**
+
+### Conceptual Explanation
+
+This is a structural transition slide, opening the third section of the module's agenda. Having established how data is stored and retrieved, the presenter now focuses on the inverse: how data is deleted. The subtitle "No Usage" immediately gives away the algorithm: the brain deletes things that it doesn't use.
+
+---
+
+# Slide 17: Workshop „Forgetting“
+
+- Header: **Workshop „Forgetting“**
+- Core Brainstorming Prompts:
+  - What do we forget and what not?
+  - How do we compensate for memory lapses?
+  - How would you implement forgetting information in a digital memory?
+
+### Conceptual Explanation
+
+This workshop challenges the audience to realize that "Forgetting" is not a bug; it is a critical feature of an efficient memory architecture. 
+
+If a biological brain never forgot anything, it would be paralyzed by the sheer volume of useless data (e.g., remembering every blade of grass you've ever seen). The brain actively prunes its own database. The final prompt ("How would you implement forgetting...?") forces the audience to design a Garbage Collection algorithm for an AI's database. 
+
+### Why this matters
+
+For AI systems with massive context windows (like long-running LLM agents), **Context Pruning** is a massive technical challenge. You cannot keep 10 million tokens in active RAM forever. The AI must have an algorithm that decides which memories are obsolete and safely deletes/archives them to save compute costs.
+
+---
+
+# Slide 18: Forgetting — Frequency and Last Time
+
+- Header: **3. Forgetting**
+- Subtitle: **Frequency of Use (F) and Last Time of Use (LT)**
+- Core Visual:
+  - The massive Family Graph is shown again.
+  - Four of the nodes (Entities A, B, C, and D) have large blue circles stamped over them containing the variables **F** and **LT**.
+  - Entity E has no circle.
+
+### Conceptual Explanation
+
+This slide provides the literal mathematical algorithm the brain uses to decide what to forget. It tracks two variables for every node in the graph:
+1. **Frequency of Use (F)**: How many times has this node been accessed?
+2. **Last Time of Use (LT)**: How recently was this node accessed?
+
+If a node has a high `F` and a recent `LT`, the brain protects it. If a node (like Entity E in the visual) has a low `F` and a distant `LT`, the brain flags it for deletion. The associative edges connected to Entity E will degrade and eventually vanish.
+
+### Why this matters
+
+In computer science, this is exactly the **LRU (Least Recently Used) and LFU (Least Frequently Used) Cache Eviction Algorithms**. When a web server's RAM cache gets full, it uses these exact formulas (`F` and `LT`) to decide which data to flush to make room for new data. This proves that biological memory optimization and digital cache optimization use the exact same logic.
+
+---
+
+# Slide 19: Section 4 Transition
+
+- Header: **4 Primitives**
+- Subtitle: **Name Time Space**
+
+### Conceptual Explanation
+
+This is a structural transition slide, opening the fourth section of the module's agenda. The presenter now shifts focus to the core "Primitives" (the base data types) used to index and query information in memory. The three most fundamental indexes are Name, Time, and Space.
+
+---
+
+# Slide 20: Primitives — Name
+
+- Header: **4. Name**
+- Core Matrix:
+  - **What is a Name?** $\rightarrow$ *Phonetic/Textual Pattern.*
+  - **When is it Used?** $\rightarrow$ *When Individuals Communicate.*
+  - **What is it Used for?** $\rightarrow$ *To Assign it to Mental Entities.*
+  - **Why is it Used?** $\rightarrow$ *To Shortcut the communication.*
+
+### Conceptual Explanation
+
+This slide reiterates the definition of a "Name" from the previous Concept module, but frames it specifically in the context of memory. 
+
+When storing a massive complex schema in memory, the brain needs a fast, lightweight way to index it. It uses a "textual pattern" (a name) as a pointer. Because the name is a primitive data type, it requires virtually zero memory to store and zero compute to retrieve, making it the perfect "shortcut" for communication and memory retrieval.
+
+---
+
+# Slide 21: Name — Tertiary Association
+
+- Header: **4. Name**
+- Subtitle: **Simple Concept (Tertiary Association)**
+- Core Visual:
+  - A horizontal edge connects **Entity A** (Role: `nominee`) to **Entity B** (Role: `name`).
+  - A vertical line drops down from the center of that horizontal edge, connecting to **Concept C** (Role: `language`).
+
+### Conceptual Explanation
+
+This slide introduces a radical new graph structure: the **Tertiary Association**.
+
+Up until now, the seminar only showed binary associations (Node $\leftrightarrow$ Node). But memory requires context. It is not enough to just link an entity to a name. The brain must also remember *under what context* that name is valid. To do this, the brain draws a third edge *directly into the associative line itself*, pointing to a third concept (the Language).
+
+This creates a 3-way dependency. Entity B is only valid as the name for Entity A *if* the context of Concept C is currently active. 
+
+### Why this matters
+
+In database design, this illustrates the absolute necessity of **Metadata** and **Graph Edge Properties**. In a simple relational database, you just link `Object_ID` to `String_Name`. But in a complex Knowledge Graph, the edges themselves must hold data. The edge connecting the Eiffel Tower to "Eiffelturm" must hold the property `{ language: "German" }`. A true AGI must be able to assign context not just to entities, but to the associations between entities.
+
+---
+
+# Slides 22-25: Name — Collapsing the Tertiary Association
+
+- Header: **4. Name**
+- Subtitles: **Simple Concept / Binary Association**
+- Core Visual Flow:
+  - Slide 22 & 23 show the 3-way dependency from Slide 21 explicitly mapped to real words: The edge between the tower and "Eiffelturm" points down to "German."
+  - Slide 24 shows a mathematical simplification. Instead of a 3-way graph, the brain collapses the `<language>` node into the edge label itself. The edge is now labeled `<language> name`.
+  - Slide 25 shows the final result: The brain just draws direct edges labeled `french name`, `german name`, and `english name` directly from the tower to the strings.
+
+### Conceptual Explanation
+
+These slides show how the brain optimizes its own database. A Tertiary Association (a 3-way dependency) is computationally expensive to traverse. To save processing power, the brain "collapses" the context node (the language) directly into the edge label. It turns a complex 3-way network back into a fast, flat binary network.
+
+### Why this matters
+
+This is the exact logic behind **Denormalization** in database architecture. While a fully normalized relational database (with separate tables for languages) is mathematically pure, it requires expensive `JOIN` operations. Software engineers will intentionally denormalize the data, collapsing the language ID directly into the column header (e.g., `french_name_col`, `german_name_col`) to optimize for read-speed.
+
+---
+
+# Slide 26: Workshop „Time and Space“
+
+- Header: **Workshop „Time and Space“**
+- Core Prompts:
+  - How would you model time in an information network?
+  - How would you model space in an information network?
+
+### Conceptual Explanation
+
+This workshop prompts the audience to define the remaining two "Primitives" (Time and Space) algorithmically. 
+To model Time, every node or edge in the graph must have a `StartTime` and `EndTime` property attached to it. To model Space, entities must have 3D coordinate properties (`X,Y,Z`) mapped relative to other entities. 
+
+---
+
+# Slide 27-28: Segments — Value Memory
+
+- Header: **5. Segments**
+- Subtitle: **Value Memory**
+- Core Principles:
+  - Action theory assumes inner values detect the necessity of action.
+  - Inner values must be *persisted* in our memory, otherwise we couldn't refer to them.
+  - Inner values are formed and deformed (developed) by impressions and experiences. (Guided experience = education).
+  - The inner values must be separated or *segmented* from other memories and clearly identifiable.
+
+### Conceptual Explanation
+
+This slide tackles how the brain stores "Values" (the target goals that drive intelligence). 
+Values are not hardcoded. They are learned and persisted in memory just like facts. However, because Values dictate the behavior of the entire system, they cannot be mixed randomly with trivial facts. The brain must partition its memory, creating a dedicated, heavily protected "Value Segment" (a distinct table/bucket) so the logic engine can instantly query it when deciding how to act. 
+
+### Why this matters
+
+In AI Agent design, this is the distinction between the **System Prompt / Reward Function** and standard **Context Memory**. You do not store the AI's core directive ("Do not harm humans") in the same memory bucket as a recipe for pancakes. You segment the Value Memory and give it overriding priority in the logic engine.
+
+### Interpretive note
+
+- The typo *"persistet"* (persisted) is preserved from the original text.
+
+---
+
+# Slide 29-30: Memory Segments Defined
+
+- Header: **5. Segments**
+- Subtitle: **Allocation of Knowledge**
+- Core Taxonomy:
+  - The information and knowledge for different tasks can be stored in different segments:
+  - **Short-term Memory** vs **Long-term Memory**
+  - Data Buckets:
+    1. Episode Information (Experiences)
+    2. Reality Information (Facts about the physical world)
+    3. Individual Reality Information (Subjective facts)
+    4. Value Information (Goals/Ethics)
+    5. Action Plans (Saved algorithms for tasks)
+    6. Motion Concepts (How to move)
+    7. Speech Concepts (How to talk)
+
+### Conceptual Explanation
+
+This slide presents a complete, high-level architecture diagram for a mind's storage system. It proves that human memory is highly partitioned. Different types of data require different retrieval speeds and network structures, so the brain allocates them to specialized segments.
+
+### Why this matters
+
+This maps directly to a **Microservices Architecture** with specialized databases.
+- Short-term Memory = **RAM / Redis Cache**
+- Episode Information = **Time-Series Database** (logs of past events)
+- Reality Information = **Graph Database** (facts and Wikipedia-style knowledge)
+- Value Information = **Configuration Files / System Prompts**
+- Action Plans = **Stored Procedures / Executable Scripts**
+
+---
+
+# Slide 31-33: Implementation — Database
+
+- Header: **6. Implementation**
+- Subtitle: **Database**
+- Core Visual (Slide 33): 
+  - Literal SQL `CREATE TABLE` statements for the entire cognitive architecture:
+    - `TABLE ENTITY` (UUID, Name, Type)
+    - `TABLE CONCEPT` (UUID, Name)
+    - `TABLE NAME` (UUID, String Name)
+    - `TABLE ASSOCIATION` (UUID, Entity1, Concept1, Concept2, Entity2, StartTime, EndTime)
+
+### Conceptual Explanation
+
+This is the climactic reveal of the "H Memory" module. After spending hours defining memory using psychological and philosophical terms, the presenter drops literal **SQL code** onto the screen. 
+
+It proves, without a doubt, that the "Association Network" and "Concept Schemas" used by the human brain can be perfectly, conventionally implemented using standard Relational Database Management Systems (RDBMS). The `TABLE ASSOCIATION` explicitly models the "Counterpart Paradigm" by mapping `Entity1` to `Entity2` and tracking the relationship with `StartTime` and `EndTime` (fulfilling the Time primitive from Workshop 26).
+
+### Why this matters
+
+This gives software engineers the literal database schema required to build the memory of an AGI. The theoretical philosophy has been successfully compiled into actionable computer science.
+
+---
+
+# Slide 34-36: Conclusion
+
+- Header: **7. Conclusion**
+- Core Takeaways:
+  - Memory is crucial for intelligence; it is the central place where all information is stored and retrieved.
+  - Associative organized access to persisted information has huge advantages.
+  - The model of the persisting system is crucial. It must be complete in terms of time logic, space logic, etc.
+  - **Implementation can be done conventionally.**
+
+### Conceptual Explanation
+
+The final slide synthesizes the module. It reiterates that associative networks (graphs) are the superior method for organizing memory because they allow for rapid context retrieval. Most importantly, it stresses the final bullet point: **"Implementation can be done conventionally."** You do not need quantum computers or biological neural nets to build AGI memory. Standard, conventional database architectures (SQL/Graph) are perfectly capable of hosting Strong AI, provided the schema is designed correctly.
+
+### Interpretive note
+
+- The typo *"retreived"* is preserved from the original text. Slide 36 is the final "Thank You" slide.
