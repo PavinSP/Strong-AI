@@ -4,41 +4,41 @@
 - Subtitle: **C Reality**
 - Topic: **Representing the World**
 - Presenter: Prof. Dr. Dr. h. c. Robert Grebner
-- [cite_start]Affiliation: Technical University of Applied Sciences, Würzburg-Schweinfurt (thws) [cite: 457, 458]
-- [cite_start]Date: 27.03.2026 [cite: 456]
+- Affiliation: Technical University of Applied Sciences, Würzburg-Schweinfurt (thws)
+- Date: 27.03.2026
 
 ### Conceptual Explanation
 
-[cite_start]This opening slide establishes the framework for the third major module—**C Reality**—within the overarching series on Strong Artificial Intelligence[cite: 452, 453]. 
+This opening slide establishes the framework for the third major module—**C Reality**—within the overarching series on Strong Artificial Intelligence.
 
-- [cite_start]Having explored the structural boundaries of technological acceleration (**A Singularities**) and the functional mechanics of cognition (**B Intelligence**), the course now moves to the foundational prerequisite of general reasoning: how an intelligent agent constructs internal models of the external world (**Representing the World**)[cite: 454].
-- [cite_start]The academic context remains grounded within the Technical University of Applied Sciences Würzburg-Schweinfurt (thws), positioning this as a highly structured, research-driven exploration of AGI[cite: 455, 458].
+- Having explored the structural boundaries of technological acceleration (**A Singularities**) and the functional mechanics of cognition (**B Intelligence**), the course now moves to the foundational prerequisite of general reasoning: how an intelligent agent constructs internal models of the external world (**Representing the World**).
+- The academic context remains grounded within the Technical University of Applied Sciences Würzburg-Schweinfurt (thws), positioning this as a highly structured, research-driven exploration of AGI.
 
 ### Why this matters
 
-- As a title slide, it signals a deeper dive into philosophy and ontology. [cite_start]True "Strong AI" cannot function solely through statistical language processing; it requires a systematic grasp of reality itself[cite: 452, 454].
-- [cite_start]It frames modeling not merely as an engineering task (like writing database schemas), but as an epistemological challenge: how a digital brain can meaningfully perceive, delimit, and internalize the physical world[cite: 454].
+- As a title slide, it signals a deeper dive into philosophy and ontology. True "Strong AI" cannot function solely through statistical language processing; it requires a systematic grasp of reality itself.
+- It frames modeling not merely as an engineering task (like writing database schemas), but as an epistemological challenge: how a digital brain can meaningfully perceive, delimit, and internalize the physical world.
 
 ### Interpretive note
 
-- [cite_start]The timestamp of **27.03.2026** confirms this session occurred exactly one week after modules A and B (which were dated 20.03.2026)[cite: 5, 248, 456]. This indicates a rapid, intensive curriculum pacing designed to transition students seamlessly from abstract AI theory to the rigid parameters of spatial and objective modeling.
+- The timestamp of **27.03.2026** confirms this session occurred exactly one week after modules A and B (which were dated 20.03.2026). This indicates a rapid, intensive curriculum pacing designed to transition students seamlessly from abstract AI theory to the rigid parameters of spatial and objective modeling.
 
 # Slide 2: Repetition — “Singularity”
 
 - Header: **Repetition „Singularity“**
 - Review Questions:
-  - [cite_start]Which technological unique developments (singularities) massively changed our daily life and work? [cite: 461]
-  - [cite_start]Which probably will lead to the humanization of machines? [cite: 462]
-  - [cite_start]Why is „Work" as a concept so important? [cite: 463]
-  - [cite_start]What components make up a „Work System" and how are the components connected? [cite: 464]
+ - Which technological unique developments (singularities) massively changed our daily life and work?
+ - Which probably will lead to the humanization of machines?
+ - Why is „Work" as a concept so important?
+ - What components make up a „Work System" and how are the components connected?
 
 ### Conceptual Explanation
 
-This slide serves as a structured review session, intentionally forcing the audience to reconnect with the core frameworks established during the first lecture (**A Singularities**). 
+This slide serves as a structured review session, intentionally forcing the audience to reconnect with the core frameworks established during the first lecture (**A Singularities**).
 
-- [cite_start]The first question revisits the historical technological timeline (mechanization, computerization, digitalization), framing them as world-altering transition points[cite: 461].
-- [cite_start]The second question focuses on the psychological and philosophical horizon: moving from mechanical work performance to machines that share human traits and cognitive autonomy ("humanization")[cite: 462].
-- [cite_start]The final two questions target the central operational anchor of this entire lecture series: the concept of **Work** and the formal **Work System** structure (Task, Worker, Tool, Process, Object)[cite: 463, 464].
+- The first question revisits the historical technological timeline (mechanization, computerization, digitalization), framing them as world-altering transition points.
+- The second question focuses on the psychological and philosophical horizon: moving from mechanical work performance to machines that share human traits and cognitive autonomy ("humanization").
+- The final two questions target the central operational anchor of this entire lecture series: the concept of **Work** and the formal **Work System** structure (Task, Worker, Tool, Process, Object).
 
 ### Why this matters
 
@@ -47,92 +47,92 @@ This slide serves as a structured review session, intentionally forcing the audi
 
 ### Interpretive note
 
-- [cite_start]The question "Which probably will lead to the humanization of machines?" highlights a subtle shift in perspective[cite: 462]. The speaker isn't merely asking how humans can use machines, but how machines are progressively adopting human-like cognitive models to survive and function within our reality.
+- The question "Which probably will lead to the humanization of machines?" highlights a subtle shift in perspective. The speaker isn't merely asking how humans can use machines, but how machines are progressively adopting human-like cognitive models to survive and function within our reality.
 
 # Slide 3: Repetition — “Intelligence”
 
 - Header: **Repetition „Intelligence“**
 - Review Questions:
-  - [cite_start]Give a proper definition of intelligence[cite: 469].
-  - [cite_start]Which components does a machine need, to be intelligent and human like[cite: 470]?
-  - [cite_start]What is the only thing humans can do[cite: 471]?
+ - Give a proper definition of intelligence.
+ - Which components does a machine need, to be intelligent and human like?
+ - What is the only thing humans can do?
 
 ### Conceptual Explanation
 
-[cite_start]This slide continues the foundational review sequence, this time pulling core concepts from the previous module (**B Intelligence**)[cite: 468]. 
+This slide continues the foundational review sequence, this time pulling core concepts from the previous module (**B Intelligence**).
 
-- [cite_start]The first question demands the exact recall of the definition established previously—specifically the relationship between abstract thought and purposeful action[cite: 469].
-- [cite_start]The second question tests the structural framework of the system architecture required for human-like intelligence, pointing back to the continuous loop of perception, reasoning, and expression[cite: 470].
-- [cite_start]The third question, "What is the only thing humans can do?", is a provocative pedagogical pivot[cite: 471]. Given that the previous modules established machines can handle data and narrow tasks, this question forces the audience to isolate the absolute boundary of unique biological human capability before evaluating how machines model reality.
+- The first question demands the exact recall of the definition established previously—specifically the relationship between abstract thought and purposeful action.
+- The second question tests the structural framework of the system architecture required for human-like intelligence, pointing back to the continuous loop of perception, reasoning, and expression.
+- The third question, "What is the only thing humans can do?", is a provocative pedagogical pivot. Given that the previous modules established machines can handle data and narrow tasks, this question forces the audience to isolate the absolute boundary of unique biological human capability before evaluating how machines model reality.
 
 ### Why this matters
 
-- It ensures the absolute mastery of prior material before introducing new cognitive layers. 
+- It ensures the absolute mastery of prior material before introducing new cognitive layers.
 - By confronting the audience with the unique limits of human capability versus machine potential, the speaker sets up the necessity of world-modeling. If machines are to bridge the remaining gaps, they must learn to represent the environment exactly like humans do.
 
 ### Interpretive note
 
-- [cite_start]The question "What is the only thing humans can do?" is highly revealing of the presenter's structured view[cite: 471]. [cite_start]In the context of the entire series, the answer likely links back to the human status as the "Crowning Glory of Creation" who uniquely initiates work systems, sets purposeful goals, or generates original conceptual models out of raw reality[cite: 30, 147].
+- The question "What is the only thing humans can do?" is highly revealing of the presenter's structured view. In the context of the entire series, the answer likely links back to the human status as the "Crowning Glory of Creation" who uniquely initiates work systems, sets purposeful goals, or generates original conceptual models out of raw reality.
 
 # Slide 4: Workshop “Reality”
 
-- [cite_start]Title: **Workshop „Reality“** [cite: 475]
+- Title: **Workshop „Reality“**
 - Questions:
-  1. What is reality? [cite_start]Define! [cite: 476]
-  2. [cite_start]How do Computer Scientists handle reality? [cite: 477]
-  3. [cite_start]Why does a digital brain not yet exist, even if hundreds of thousands of computer scientists model the world since more than a half of a century? [cite: 478, 479]
-  4. [cite_start]Is reality subjective or objective? [cite: 479]
-  5. [cite_start]Is there one or are there more realities? [cite: 480]
+ 1. What is reality? Define!
+ 2. How do Computer Scientists handle reality?
+ 3. Why does a digital brain not yet exist, even if hundreds of thousands of computer scientists model the world since more than a half of a century?
+ 4. Is reality subjective or objective?
+ 5. Is there one or are there more realities?
 
 ### Conceptual Explanation
 
-[cite_start]This slide formally presents the interactive roadmap and core inquiries for the **C Reality** module[cite: 475].
+This slide formally presents the interactive roadmap and core inquiries for the **C Reality** module.
 
-- [cite_start]The opening question demands a fundamental baseline definition of **reality**[cite: 476], moving the conversation past pure algorithmic definitions into ontology.
-- [cite_start]Question 2 shifts directly to the practical domain of computer science[cite: 477]. It prompts the audience to consider how software architectures, databases, and object-oriented programming traditional handle data structures representing real-world components.
-- [cite_start]Question 3 points out a striking, historical paradox [cite: 478, 479][cite_start]: despite over 50 years of relentless effort by hundreds of thousands of computer scientists to model the world, a true autonomous, digital brain remains unachieved[cite: 478, 479]. This implies that there is a deep, systemic flaw or missing piece in traditional software modeling methods.
-- [cite_start]Questions 4 and 5 introduce classic philosophical dilemmas regarding subjectivity, objectivity, and the potential existence of multiple parallel or layered realities[cite: 479, 480].
+- The opening question demands a fundamental baseline definition of **reality**, moving the conversation past pure algorithmic definitions into ontology.
+- Question 2 shifts directly to the practical domain of computer science. It prompts the audience to consider how software architectures, databases, and object-oriented programming traditional handle data structures representing real-world components.
+- Question 3 points out a striking, historical paradox : despite over 50 years of relentless effort by hundreds of thousands of computer scientists to model the world, a true autonomous, digital brain remains unachieved. This implies that there is a deep, systemic flaw or missing piece in traditional software modeling methods.
+- Questions 4 and 5 introduce classic philosophical dilemmas regarding subjectivity, objectivity, and the potential existence of multiple parallel or layered realities.
 
 ### Why this matters
 
-- It isolates the true bottleneck of Artificial General Intelligence. [cite_start]The presenter is establishing that the failure to build a digital brain isn't due to a lack of time, manpower, or historical effort [cite: 478, 479]—it is because "Reality" itself is incredibly difficult to map objectively into computational logic.
+- It isolates the true bottleneck of Artificial General Intelligence. The presenter is establishing that the failure to build a digital brain isn't due to a lack of time, manpower, or historical effort —it is because "Reality" itself is incredibly difficult to map objectively into computational logic.
 - It prepares the audience to look critically at how computer science has historically oversimplified the world, setting up the need for a more sophisticated, multi-layered modeling paradigm.
 
 ### Interpretive note
 
-- Question 3 is an extraordinary call-to-action for the computer science students in the lecture hall. [cite_start]By highlighting a half-century-long gap in the discipline's success[cite: 478, 479], the presenter frames the upcoming slides not just as a standard lecture, but as an active engineering puzzle that the next generation of researchers must solve.
+- Question 3 is an extraordinary call-to-action for the computer science students in the lecture hall. By highlighting a half-century-long gap in the discipline's success, the presenter frames the upcoming slides not just as a standard lecture, but as an active engineering puzzle that the next generation of researchers must solve.
 
 # Slide 5: The Framework of Reality
 
 - Header: **C Reality**
 - Core Agenda Framework:
-  1. [cite_start]**World**: Place of Being / Orientation Giver [cite: 485, 486, 498]
-  2. [cite_start]**Entity**: Worlds One Thing and Everything / Persistencer [cite: 488, 489, 499]
-  3. [cite_start]**Differentiation** [cite: 491]
-  4. [cite_start]**Representation**: My Representation [cite: 492, 500]
-  5. [cite_start]**Primary Reality**: Others Representation [cite: 493, 501]
-  6. [cite_start]**n-ary Reality** [cite: 494]
-  7. [cite_start]**Conclusion**: Paradox and Dualism [cite: 495, 502]
+ 1. **World**: Place of Being / Orientation Giver
+ 2. **Entity**: Worlds One Thing and Everything / Persistencer
+ 3. **Differentiation**
+ 4. **Representation**: My Representation
+ 5. **Primary Reality**: Others Representation
+ 6. **n-ary Reality**
+ 7. **Conclusion**: Paradox and Dualism
 
 ### Conceptual Explanation
 
-[cite_start]This slide presents the detailed breakdown of the agenda for the third module, revealing the structured, bottom-up ontology the presenter uses to decode **Reality**[cite: 484]. 
+This slide presents the detailed breakdown of the agenda for the third module, revealing the structured, bottom-up ontology the presenter uses to decode **Reality**.
 
-- [cite_start]The journey begins macroscopically with the **World** as the complete "Place of Being" and foundational "Orientation Giver"[cite: 486, 498].
-- [cite_start]It immediately shifts to the microscopic scale with the **Entity**, defined beautifully as both "Worlds one thing and everything" and a "Persistencer"—an identifiable unit that maintains its state across time[cite: 489, 499].
-- [cite_start]**Differentiation** serves as the cognitive sorting mechanism, allowing an observer to categorize and draw boundaries between distinct entities[cite: 491].
-- [cite_start]The architecture then transitions into the subjective layers of information: **Representation** ("My Representation" of the world) [cite: 492, 500] [cite_start]and **Primary Reality** vs. **n-ary Reality** ("Others Representation" and nested, shared layers of perspective)[cite: 493, 494, 501].
-- [cite_start]It culminates in a systemic **Conclusion** addressing the fundamental "Paradox and Dualism" of mind and physical matter[cite: 495, 502].
+- The journey begins macroscopically with the **World** as the complete "Place of Being" and foundational "Orientation Giver".
+- It immediately shifts to the microscopic scale with the **Entity**, defined beautifully as both "Worlds one thing and everything" and a "Persistencer"—an identifiable unit that maintains its state across time.
+- **Differentiation** serves as the cognitive sorting mechanism, allowing an observer to categorize and draw boundaries between distinct entities.
+- The architecture then transitions into the subjective layers of information: **Representation** ("My Representation" of the world) and **Primary Reality** vs. **n-ary Reality** ("Others Representation" and nested, shared layers of perspective).
+- It culminates in a systemic **Conclusion** addressing the fundamental "Paradox and Dualism" of mind and physical matter.
 
 ### Why this matters
 
-- This slide moves the definition of reality away from passive, static computer database modeling into an active, observer-dependent system framework. 
-- [cite_start]By listing elements like *My Representation* alongside *Others Representation*, the speaker highlights that true Artificial General Intelligence cannot just map data attributes; it must master the multi-layered perspective tracking required to co-exist with other thinking agents[cite: 500, 501].
+- This slide moves the definition of reality away from passive, static computer database modeling into an active, observer-dependent system framework.
+- By listing elements like *My Representation* alongside *Others Representation*, the speaker highlights that true Artificial General Intelligence cannot just map data attributes; it must master the multi-layered perspective tracking required to co-exist with other thinking agents.
 
 ### Interpretive note
 
-- [cite_start]The phrase "Worlds one thing and everything" for an Entity hints at a deeply holistic worldview[cite: 489]. [cite_start]It suggests that while an entity is a standalone "one thing" to our perception, it is simultaneously interconnected with and a part of "everything" else in the physical universe[cite: 489]. 
-- [cite_start]This structural taxonomy prepares the workshop participants to completely rethink how computer scientists represent objects[cite: 477].
+- The phrase "Worlds one thing and everything" for an Entity hints at a deeply holistic worldview. It suggests that while an entity is a standalone "one thing" to our perception, it is simultaneously interconnected with and a part of "everything" else in the physical universe.
+- This structural taxonomy prepares the workshop participants to completely rethink how computer scientists represent objects.
 
 # Slide 6: World — The Orientation Giver
 
@@ -141,9 +141,9 @@ This slide serves as a structured review session, intentionally forcing the audi
 
 ### Conceptual Explanation
 
-[cite_start]This slide introduces the first major structural section of the reality framework: the **World**[cite: 485]. 
+This slide introduces the first major structural section of the reality framework: the **World**.
 
-- [cite_start]The presenter designates the world as the ultimate **Orientation Giver**[cite: 504]. This means that before any intelligent system can navigate, make decisions, or establish goals, it must have a baseline environment—a macro-scale frame of reference—to anchor its position and understand its surroundings.
+- The presenter designates the world as the ultimate **Orientation Giver**. This means that before any intelligent system can navigate, make decisions, or establish goals, it must have a baseline environment—a macro-scale frame of reference—to anchor its position and understand its surroundings.
 - This slide functions as a conceptual pivot point. It shifts the workshop's focus away from the internal cognitive processing of the mind (which dominated Module B) and establishes the external, objective container in which that mind must exist and operate.
 
 ### Why this matters
@@ -153,7 +153,7 @@ This slide serves as a structured review session, intentionally forcing the audi
 
 ### Interpretive note
 
-- [cite_start]By dedicating an entire layout to just these two words ("Orientation Giver"), the presenter emphasizes the foundational weight of the concept[cite: 504]. In a live presentation setting, this slide is designed to make the audience pause and think about how they automatically orient themselves in space and time, prompting them to consider how a machine might replicate that instinct.
+- By dedicating an entire layout to just these two words ("Orientation Giver"), the presenter emphasizes the foundational weight of the concept. In a live presentation setting, this slide is designed to make the audience pause and think about how they automatically orient themselves in space and time, prompting them to consider how a machine might replicate that instinct.
 
 # Slide 7: World — The Boundary of Me
 
@@ -174,7 +174,7 @@ This slide strips away abstract philosophical text to define the boundary of the
 
 ### Interpretive note
 
-- The visual arrangement of the text—with "everything around me &" hovering above a isolated, capitalized **"ME"**—perfectly captures the psychological perspective of an individual entity looking outward. 
+- The visual arrangement of the text—with "everything around me &" hovering above a isolated, capitalized **"ME"**—perfectly captures the psychological perspective of an individual entity looking outward.
 - It sets up a fascinating challenge for computer systems: while traditional code handles datasets objectively as a third-party, a thinking machine must learn to perceive information subjectively from its own embedded standpoint within the system.
 
 # Slide 8: World Fundamentals — One Shared Reality
@@ -182,10 +182,10 @@ This slide strips away abstract philosophical text to define the boundary of the
 - Header: **1. World**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is the World?** -> *What surrounds us with ourselfs included.*
-  - **Are Minds and Thoughts Part of the World?** -> **Yes.**
-  - **Is there one world?** -> **Yes. We all face the same one world.**
-  - **What is not existing?** -> *Virtual things.*
+ - **What is the World?** -> *What surrounds us with ourselfs included.*
+ - **Are Minds and Thoughts Part of the World?** -> **Yes.**
+ - **Is there one world?** -> **Yes. We all face the same one world.**
+ - **What is not existing?** -> *Virtual things.*
 
 ### Conceptual Explanation
 
@@ -203,7 +203,7 @@ This slide establishes the foundational laws of the presenter's ontology, delive
 
 ### Interpretive note
 
-- The phrase *"Virtual things"* under *"What is not existing?"* introduces a deliberate philosophical tension for an audience of computer scientists. The presenter is reminding them that the software code, virtual environments, and data vectors they build all day are secondary representations—they do not possess the baseline, standalone reality of the primary physical world. 
+- The phrase *"Virtual things"* under *"What is not existing?"* introduces a deliberate philosophical tension for an audience of computer scientists. The presenter is reminding them that the software code, virtual environments, and data vectors they build all day are secondary representations—they do not possess the baseline, standalone reality of the primary physical world.
 - The typo *"ourselfs"* reflects the raw text of the original slide deck.
 
 # Slide 9: The World Phenomenon Matrix
@@ -211,38 +211,38 @@ This slide establishes the foundational laws of the presenter's ontology, delive
 - Header: **1. World**
 - Core Diagram: **World Phenomenon Matrix**
 - Matrix Layout:
-  | physical/mental \ matter/wave | matter (mechanical, chemical) | waves (electrical, optical) |
-  | :--- | :--- | :--- |
-  | **physical (real)** | [cite_start]Entities, Objects, Things, Items, ... [cite: 543] | [cite_start]Light, Electricity, ... [cite: 546] |
-  | **mental (virtual)** | *[Encompasses the entire lower row]* | [cite_start]Thinking/Mind [cite: 547] |
+ | physical/mental \ matter/wave | matter (mechanical, chemical) | waves (electrical, optical) |
+ | :--- | :--- | :--- |
+ | **physical (real)** | Entities, Objects, Things, Items, ... | Light, Electricity, ... |
+ | **mental (virtual)** | *[Encompasses the entire lower row]* | Thinking/Mind |
 
 ### Conceptual Explanation
 
-[cite_start]This slide introduces the **World Phenomenon Matrix**, a core structural framework used to classify everything that exists in the unified world[cite: 540]. [cite_start]It divides reality using two fundamental intersecting axes: an ontological axis (**physical/real** vs. **mental/virtual**) [cite: 533, 534, 535] [cite_start]and a physical axis (**matter** vs. **waves**)[cite: 532, 541, 544].
+This slide introduces the **World Phenomenon Matrix**, a core structural framework used to classify everything that exists in the unified world. It divides reality using two fundamental intersecting axes: an ontological axis (**physical/real** vs. **mental/virtual**) and a physical axis (**matter** vs. **waves**).
 
 This creates a highly organized taxonomy of existence:
-- [cite_start]**Physical Matter**: Tangible, mechanical, or chemical structures like objects, items, and biological entities[cite: 542, 543].
-- [cite_start]**Physical Waves**: Real-world energy patterns such as light and electricity that propagate through space[cite: 545, 546].
-- [cite_start]**Mental Phenomenon**: The domain of **Thinking and the Mind**[cite: 547]. [cite_start]Interestingly, the diagram positions the mind across the bottom row, implying it acts as the virtual processor capable of experiencing, simulating, and interacting with both physical matter and physical waves[cite: 535, 543, 546].
+- **Physical Matter**: Tangible, mechanical, or chemical structures like objects, items, and biological entities.
+- **Physical Waves**: Real-world energy patterns such as light and electricity that propagate through space.
+- **Mental Phenomenon**: The domain of **Thinking and the Mind**. Interestingly, the diagram positions the mind across the bottom row, implying it acts as the virtual processor capable of experiencing, simulating, and interacting with both physical matter and physical waves.
 
 ### Why this matters
 
-- [cite_start]For computer scientists trying to build Strong AI, this matrix serves as an architectural map[cite: 452]. [cite_start]It proves that a truly generalized digital brain cannot simply operate in a separate "virtual data" column; it must possess models to process both physical elements (like materials and machinery) and wave-based inputs (like optical sensors or electrical signals)[cite: 542, 545].
-- [cite_start]It bridges the gap between physics and cognitive science by treating the human or artificial mind as a measurable phenomenon within a single, unified physical world[cite: 524, 547].
+- For computer scientists trying to build Strong AI, this matrix serves as an architectural map. It proves that a truly generalized digital brain cannot simply operate in a separate "virtual data" column; it must possess models to process both physical elements (like materials and machinery) and wave-based inputs (like optical sensors or electrical signals).
+- It bridges the gap between physics and cognitive science by treating the human or artificial mind as a measurable phenomenon within a single, unified physical world.
 
 ### Interpretive note
 
-- [cite_start]Notice that the visual map of the physical world stretches across the upper half of the matrix, while an image of a brain anchors the bottom section[cite: 531]. [cite_start]This layout strongly reinforces the presenter's previous assertion that minds and thoughts are fundamentally parts of our world—not separate mystical dimensions, but virtual processing units structurally embedded within real-world physics[cite: 518, 524, 535].
+- Notice that the visual map of the physical world stretches across the upper half of the matrix, while an image of a brain anchors the bottom section. This layout strongly reinforces the presenter's previous assertion that minds and thoughts are fundamentally parts of our world—not separate mystical dimensions, but virtual processing units structurally embedded within real-world physics.
 
 # Slide 10: World Dynamics — The Nature of Change
 
 - Header: **1. World: Change**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is a Change?** -> *Basically the movement of something (change of location).*
-  - **What Changes?** -> *Objects and Minds.*
-  - **Who does the Changes?** -> *Nature and Humans.*
-  - **Are there Other Activities than Movement?** -> **No.**
+ - **What is a Change?** -> *Basically the movement of something (change of location).*
+ - **What Changes?** -> *Objects and Minds.*
+ - **Who does the Changes?** -> *Nature and Humans.*
+ - **Are there Other Activities than Movement?** -> **No.**
 
 ### Conceptual Explanation
 
@@ -267,11 +267,11 @@ The slide sets up a clear taxonomy of dynamics:
 - Header: **1. World**
 - Core Diagram: **World Change Matrix**
 - Matrix Layout:
-  | Changer \ Changed | physical | mental |
-  | :--- | :--- | :--- |
-  | **Nature (natural)** | Erosion, Natural Disasters, Plant Life, ... | Learn to Speak, Learn to Walk, ... / Insights from Observation and Natural Experiments |
-  | **Humans (artificial)** | Any Matter or Wave | Mind: Learning from others. |
-  | **Others (artificial intelligence)** | Any Matter or Wave | Mind: Learning from others including AI. |
+ | Changer \ Changed | physical | mental |
+ | :--- | :--- | :--- |
+ | **Nature (natural)** | Erosion, Natural Disasters, Plant Life, ... | Learn to Speak, Learn to Walk, ... / Insights from Observation and Natural Experiments |
+ | **Humans (artificial)** | Any Matter or Wave | Mind: Learning from others. |
+ | **Others (artificial intelligence)** | Any Matter or Wave | Mind: Learning from others including AI. |
 
 ### Conceptual Explanation
 
@@ -284,7 +284,7 @@ The matrix introduces three tiers of agency:
 
 ### Why this matters
 
-- This matrix formally places **Artificial Intelligence** into the world system as an independent, active agent of change alongside Nature and Humans. 
+- This matrix formally places **Artificial Intelligence** into the world system as an independent, active agent of change alongside Nature and Humans.
 - It acknowledges a profound cognitive loop: AI is no longer just an engineered tool; it is an entity capable of changing human minds. As humans learn from and adapt to AI systems, the machine becomes a primary driver of cultural and cognitive evolution.
 
 ### Interpretive note
@@ -296,25 +296,25 @@ The matrix introduces three tiers of agency:
 - Header: **1. World**
 - Section: **Exercise**
 - Review prompts:
-  - [cite_start]Try to describe a change in the physical world with no movement is happening. [cite: 584]
-  - [cite_start]What moves, when a brain or mind is changed or changes? [cite: 585]
+ - Try to describe a change in the physical world with no movement is happening.
+ - What moves, when a brain or mind is changed or changes?
 
 ### Conceptual Explanation
 
-[cite_start]This slide presents an interactive group exercise designed to test and challenge the absolute physical baseline established in Slide 10—specifically the rule that all change is fundamentally movement. [cite: 552]
+This slide presents an interactive group exercise designed to test and challenge the absolute physical baseline established in Slide 10—specifically the rule that all change is fundamentally movement.
 
-- [cite_start]The first prompt asks participants to find a counterexample: a real-world physical transition that occurs entirely without mechanical, molecular, atomic, or electrical relocation. [cite: 584]
-- The second prompt targets cognitive systems: it asks students to identify the physical substrate of thought. [cite_start]When a person learns a new concept, alters an opinion, or updates their internal model of reality, what literal structural elements are physically moving or shifting location within the brain? [cite: 585]
+- The first prompt asks participants to find a counterexample: a real-world physical transition that occurs entirely without mechanical, molecular, atomic, or electrical relocation.
+- The second prompt targets cognitive systems: it asks students to identify the physical substrate of thought. When a person learns a new concept, alters an opinion, or updates their internal model of reality, what literal structural elements are physically moving or shifting location within the brain?
 
 ### Why this matters
 
-- For an audience of computer scientists and engineers, this exercise prevents abstract philosophy from remaining purely theoretical. [cite_start]It forces them to bridge cognitive changes (like updating data structures or neural net weights) with physical laws. [cite: 585]
+- For an audience of computer scientists and engineers, this exercise prevents abstract philosophy from remaining purely theoretical. It forces them to bridge cognitive changes (like updating data structures or neural net weights) with physical laws.
 - It helps students realize that even highly abstract digital transformations—like a machine changing its internal representation of an object—ultimately require the physical movement of electrons through logic gates.
 
 ### Interpretive note
 
-- These prompts function as intellectual traps. [cite_start]Because the presenter's ontology strictly equates change with movement[cite: 552], any answer the students formulate for the first prompt will likely be deconstructed by the presenter to reveal a hidden microscopic movement (e.g., thermal energy shifts are atomic vibrations, chemical color changes are electron reconfigurations). 
-- [cite_start]It perfectly primes the audience for the next major section of the lecture: defining the fundamental units of the world that experience these movements—**Entities**. [cite: 589]
+- These prompts function as intellectual traps. Because the presenter's ontology strictly equates change with movement, any answer the students formulate for the first prompt will likely be deconstructed by the presenter to reveal a hidden microscopic movement (e.g., thermal energy shifts are atomic vibrations, chemical color changes are electron reconfigurations).
+- It perfectly primes the audience for the next major section of the lecture: defining the fundamental units of the world that experience these movements—**Entities**.
 
 # Slide 13: Introduction to Entities
 
@@ -323,7 +323,7 @@ The matrix introduces three tiers of agency:
 
 ### Conceptual Explanation
 
-This slide transitions the workshop into the second major section of the agenda: defining and understanding **Entities**. 
+This slide transitions the workshop into the second major section of the agenda: defining and understanding **Entities**.
 
 - The presenter introduces the concept with the poetic yet highly structural phrase: **"Worlds one thing and everything."** - This definition dualistically positions an entity. On one hand, it is an isolated, specific, individual "one thing" that can be identified and tracked. On the other hand, it does not exist in a vacuum; it is fundamentally embedded in, constructed from, and connected to the macroscopic "everything" of the unified physical world.
 
@@ -343,7 +343,7 @@ This slide transitions the workshop into the second major section of the agenda:
 
 ### Conceptual Explanation
 
-This slide refines the definition of an **Entity** by shifting from the holistic macro-perspective of Slide 13 to a microscopic, comparative perspective. 
+This slide refines the definition of an **Entity** by shifting from the holistic macro-perspective of Slide 13 to a microscopic, comparative perspective.
 
 - The presenter frames an entity as **"One Thing among countless others."** This introduces the core concept of individuality and coexistence. To be an entity, a component must be distinct enough to be singled out as a standalone unit ("One Thing"), while simultaneously existing in a crowded environment populated by an infinite number of parallel objects ("countless others").
 - This definition establishes that reality is highly modular. The world is not a single, solid block; it is an assembled mosaic of distinct, trackable units.
@@ -361,14 +361,14 @@ This slide refines the definition of an **Entity** by shifting from the holistic
 
 - Header: **2. Entity**
 - Taxonomy & Examples:
-  | Ontological Category | Structural Nature | Concrete Examples |
-  | :--- | :--- | :--- |
-  | **physical entities (real)** | Tangible, objective constructs | Tree, Person, Laptop, ... |
-  | **mental entities (virtual)** | Cognitive, conceptual representations | Thoughts, Action Planing, Verbs, ... |
+ | Ontological Category | Structural Nature | Concrete Examples |
+ | :--- | :--- | :--- |
+ | **physical entities (real)** | Tangible, objective constructs | Tree, Person, Laptop, ... |
+ | **mental entities (virtual)** | Cognitive, conceptual representations | Thoughts, Action Planing, Verbs, ... |
 
 ### Conceptual Explanation
 
-This slide splits the abstract concept of an entity into two primary domains of existence: physical and mental. 
+This slide splits the abstract concept of an entity into two primary domains of existence: physical and mental.
 
 - **Physical Entities (Real)**: These are tangible, spatial objects that exist independently in the physical world. The examples given—*Tree, Person, Laptop*—represent biological, human, and manufactured matter that can be physically interacted with and measured.
 - **Mental Entities (Virtual)**: These are internal, cognitive constructs generated within a mind. Interestingly, the presenter includes *Thoughts*, *Action Planing* (planning), and *Verbs* as distinct entities. This implies that language components and future-oriented simulations are processed by the mind as standalone, trackable objects just like a physical laptop.
@@ -388,39 +388,39 @@ This slide splits the abstract concept of an entity into two primary domains of 
 - Header: **2. Entity**
 - Section: **What Characterises an Entity in Principle?**
 - Core Questions & Answers:
-  - [cite_start]**What Characterises an Entity in Principle?** -> *It is delimitable.* [cite: 156, 158]
-  - [cite_start]**What is a Physical Entity?** -> *A conglomerate of matter and waves.* [cite: 157, 159]
-  - [cite_start]**What are Delimiters?** -> *e.g. surfaces, different perceptions, ...* [cite: 160, 161, 165]
-  - [cite_start]**What is a Mental Entity?** -> *A representation.* [cite: 166, 167]
+ - **What Characterises an Entity in Principle?** -> *It is delimitable.*
+ - **What is a Physical Entity?** -> *A conglomerate of matter and waves.*
+ - **What are Delimiters?** -> *e.g. surfaces, different perceptions, ...*
+ - **What is a Mental Entity?** -> *A representation.*
 
 ### Conceptual Explanation
 
-[cite_start]This slide defines the exact boundary conditions that allow something to be recognized as an independent object[cite: 156]. [cite_start]The presenter establishes that the universal trait characterizing any entity is its ability to be isolated or separated from its surroundings (**"It is delimitable"**)[cite: 156, 158].
+This slide defines the exact boundary conditions that allow something to be recognized as an independent object. The presenter establishes that the universal trait characterizing any entity is its ability to be isolated or separated from its surroundings (**"It is delimitable"**).
 
-[cite_start]The slide then splits this principle across both domains of reality[cite: 157, 166]:
-- [cite_start]**Physical Boundary**: A physical entity is structurally defined as a packed collection of physical properties (**"A conglomerate of matter and waves"**)[cite: 157, 159]. [cite_start]Its boundaries (**"Delimiters"**) are determined by material interfaces like physical *surfaces* or changes in sensory *perceptions* (e.g., seeing a clear edge or feeling a change in texture)[cite: 160, 161, 165].
-- [cite_start]**Mental Boundary**: A mental entity does not have physical surfaces[cite: 151, 161]. [cite_start]Instead, it is bounded entirely by its conceptual role as an internal mapping or **"representation"** of something[cite: 166, 167].
+The slide then splits this principle across both domains of reality:
+- **Physical Boundary**: A physical entity is structurally defined as a packed collection of physical properties (**"A conglomerate of matter and waves"**). Its boundaries (**"Delimiters"**) are determined by material interfaces like physical *surfaces* or changes in sensory *perceptions* (e.g., seeing a clear edge or feeling a change in texture).
+- **Mental Boundary**: A mental entity does not have physical surfaces. Instead, it is bounded entirely by its conceptual role as an internal mapping or **"representation"** of something.
 
 ### Why this matters
 
-- For computer vision and robotics, this slide outlines the exact engineering problem of object segmentation. [cite_start]An artificial agent cannot interact with a "laptop" or a "tree" until its algorithms can identify the *delimiters* (surfaces, depth discrepancies, color shifts) that prove where that physical entity ends and the rest of the world begins[cite: 153, 160, 161, 165].
-- [cite_start]It highlights that in human and machine intelligence, a thought or concept is treated as a distinct entity purely because it represents a clear, delimited boundary of information[cite: 154, 158, 167].
+- For computer vision and robotics, this slide outlines the exact engineering problem of object segmentation. An artificial agent cannot interact with a "laptop" or a "tree" until its algorithms can identify the *delimiters* (surfaces, depth discrepancies, color shifts) that prove where that physical entity ends and the rest of the world begins.
+- It highlights that in human and machine intelligence, a thought or concept is treated as a distinct entity purely because it represents a clear, delimited boundary of information.
 
 ### Interpretive note
 
-- [cite_start]The phrase *"Different perceptions"* as a delimiter suggests an observer-dependent view of reality[cite: 161, 165]. [cite_start]It implies that physical object boundaries are defined not just by raw atoms, but by how a perceiving mind's sensory apparatus separates one pattern from another[cite: 159, 161, 165, 167].
+- The phrase *"Different perceptions"* as a delimiter suggests an observer-dependent view of reality. It implies that physical object boundaries are defined not just by raw atoms, but by how a perceiving mind's sensory apparatus separates one pattern from another.
 
 # Slide 17: Introduction to Differentiation
 
-- Header: **3. [cite_start]Differentiation** [cite: 168]
-- [cite_start]Core Concept: **Orientation Giver** [cite: 169]
+- Header: **3. Differentiation**
+- Core Concept: **Orientation Giver**
 
 ### Conceptual Explanation
 
-[cite_start]This slide officially transitions the presentation into the third major section of the agenda: **Differentiation**[cite: 168]. 
+This slide officially transitions the presentation into the third major section of the agenda: **Differentiation**.
 
-- Having defined the macro-container (**World**) and the micro-units (**Entities**), the presenter introduces the cognitive mechanism required to bridge them. 
-- [cite_start]Just as the world itself functions as an environmental framework, the mental act of *Differentiation* is designated as a logical **Orientation Giver**[cite: 169]. It is the cognitive processor that allows an intelligent system to actively distinguish one entity from another, preventing reality from dissolving into an unparseable, continuous blur of matter and waves.
+- Having defined the macro-container (**World**) and the micro-units (**Entities**), the presenter introduces the cognitive mechanism required to bridge them.
+- Just as the world itself functions as an environmental framework, the mental act of *Differentiation* is designated as a logical **Orientation Giver**. It is the cognitive processor that allows an intelligent system to actively distinguish one entity from another, preventing reality from dissolving into an unparseable, continuous blur of matter and waves.
 
 ### Why this matters
 
@@ -429,21 +429,21 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Interpretive note
 
-- [cite_start]By giving the phrase "Orientation Giver" its own dedicated section slide [cite: 168, 169][cite_start], the presenter highlights a symmetry in his architectural layout: Section 1 established the *World* as the physical orientation framework [cite: 53][cite_start], and Section 3 establishes *Differentiation* as the structural orientation framework[cite: 169]. This prepares the workshop participants for the interactive classification exercises that follow.
+- By giving the phrase "Orientation Giver" its own dedicated section slide , the presenter highlights a symmetry in his architectural layout: Section 1 established the *World* as the physical orientation framework , and Section 3 establishes *Differentiation* as the structural orientation framework. This prepares the workshop participants for the interactive classification exercises that follow.
 
 # Slide 18: Workshop — Differentiation
 
-- [cite_start]Title: **Workshop  Differentiation** [cite: 173]
+- Title: **Workshop Differentiation**
 - Core Group Prompts:
-  - [cite_start]Develop basic categories for initial distinctions between entities. [cite: 174]
-  - [cite_start]Which categories are most important for us to master our daily life? [cite: 175]
+ - Develop basic categories for initial distinctions between entities.
+ - Which categories are most important for us to master our daily life?
 
 ### Conceptual Explanation
 
-[cite_start]Following the structural introduction to section 3, this slide introduces an interactive workshop exercise designed to force participants to map out their own cognitive sorting systems[cite: 173]. 
+Following the structural introduction to section 3, this slide introduces an interactive workshop exercise designed to force participants to map out their own cognitive sorting systems.
 
-- [cite_start]The first prompt tasks students with engineering an ontological framework from scratch[cite: 174]. [cite_start]They must determine the absolute baseline categories required to make a clean, initial distinction when encountering any unknown entity[cite: 174].
-- [cite_start]The second prompt forces a pragmatic constraint on that framework[cite: 175]. [cite_start]Instead of creating highly complex, abstract philosophical taxonomies, students must isolate the specific, functional categories that biological creatures use to navigate and survive their everyday environment[cite: 175].
+- The first prompt tasks students with engineering an ontological framework from scratch. They must determine the absolute baseline categories required to make a clean, initial distinction when encountering any unknown entity.
+- The second prompt forces a pragmatic constraint on that framework. Instead of creating highly complex, abstract philosophical taxonomies, students must isolate the specific, functional categories that biological creatures use to navigate and survive their everyday environment.
 
 ### Why this matters
 
@@ -452,8 +452,8 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Interpretive note
 
-- [cite_start]Notice the intentional double space in the slide header text ("Workshop  Differentiation")[cite: 173]. 
-- This workshop slide acts as a classic pedagogical bridge. [cite_start]It primes the audience to think about how they automatically bucket information before the presenter reveals his own formal structural categories on the subsequent slides[cite: 179, 186].
+- Notice the intentional double space in the slide header text ("Workshop Differentiation").
+- This workshop slide acts as a classic pedagogical bridge. It primes the audience to think about how they automatically bucket information before the presenter reveals his own formal structural categories on the subsequent slides.
 
 # Slide 19: Visualizing the Categorization Gap
 
@@ -463,79 +463,79 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Conceptual Explanation
 
-[cite_start]This slide serves as the visual placeholder and conceptual cliffhanger for the workshop's categorization exercise[cite: 179, 180]. 
+This slide serves as the visual placeholder and conceptual cliffhanger for the workshop's categorization exercise.
 
-- [cite_start]By placing four large question marks over a map of the globe, the presenter creates an explicit visual metaphor for an unmapped, unorganized world[cite: 184, 185]. 
+- By placing four large question marks over a map of the globe, the presenter creates an explicit visual metaphor for an unmapped, unorganized world.
 - It visualizes the exact state of a machine or a mind *before* the faculty of differentiation is applied: the environment is present, but the primary structural boxes used to slice, bucket, and understand that environment have not yet been defined.
 
 ### Why this matters
 
-- For computer scientists, this slide represents the "blank slate" problem in unsupervised learning and ontology design. [cite_start]It challenges the audience to think about what fundamental labels should fill those empty slots to provide an intelligent agent with immediate, high-utility orientation[cite: 174, 175].
+- For computer scientists, this slide represents the "blank slate" problem in unsupervised learning and ontology design. It challenges the audience to think about what fundamental labels should fill those empty slots to provide an intelligent agent with immediate, high-utility orientation.
 - It emphasizes that without predefined or learned categorization axes, an agent is blind to the structure of the world, even if its sensors can map the physical geography perfectly.
 
 ### Interpretive note
 
-- [cite_start]This slide is designed to be shown during the active student brainstorming session prompted by Slide 18[cite: 173]. The four empty boxes signal to the participants that the presenter has identified exactly four primary, baseline dimensions of physical and mental differentiation, which will be formally revealed on the very next slide.
+- This slide is designed to be shown during the active student brainstorming session prompted by Slide 18. The four empty boxes signal to the participants that the presenter has identified exactly four primary, baseline dimensions of physical and mental differentiation, which will be formally revealed on the very next slide.
 
 # Slide 20: The Core Categories of Differentiation
 
 - Header: **3. Differentiation**
 - Subtitle: **Categories**
 - Split Architecture Layout:
-  - **physical entities**:
-    - [cite_start]**Mobility**: *Mobile/Immobile* [cite: 188, 189]
-    - [cite_start]**World Substance**: *Physical/Mental* [cite: 190]
-    - [cite_start]**Self-acting**: *Dead/Alive* [cite: 191]
-    - [cite_start]**Intelligence**: *Thinker/Non-Thinker* [cite: 192]
-  - **mental entities**:
-    - [cite_start]**Information**: *derived by oneself/learned* [cite: 193, 194, 195]
-    - [cite_start]**Information**: *verified/unverified* [cite: 196]
-    - [cite_start]**Information**: *confidential/non confidential* [cite: 197]
+ - **physical entities**:
+ - **Mobility**: *Mobile/Immobile*
+ - **World Substance**: *Physical/Mental*
+ - **Self-acting**: *Dead/Alive*
+ - **Intelligence**: *Thinker/Non-Thinker*
+ - **mental entities**:
+ - **Information**: *derived by oneself/learned*
+ - **Information**: *verified/unverified*
+ - **Information**: *confidential/non confidential*
 
 ### Conceptual Explanation
 
-[cite_start]This slide fills in the question marks from Slide 19, revealing the explicit structural dimensions the presenter uses to sort the world[cite: 179, 180, 184, 185]. [cite_start]It divides the cognitive sorting engine into two completely distinct evaluation layers depending on the nature of the entity being processed[cite: 188, 193]:
+This slide fills in the question marks from Slide 19, revealing the explicit structural dimensions the presenter uses to sort the world. It divides the cognitive sorting engine into two completely distinct evaluation layers depending on the nature of the entity being processed:
 
-1. [cite_start]**Physical Entity Sorting Layer**: Evaluates tangible objects along four distinct biological and behavioral axes[cite: 188]:
-   - [cite_start]*Mobility*: Can it change location independently or is it anchored? [cite: 189]
-   - [cite_start]*World Substance*: Is it a pure physical object or is it a vessel for a mind? [cite: 190]
-   - [cite_start]*Self-acting*: Is it an inanimate object ("Dead") or an active biological organism ("Alive")? [cite: 191]
-   - [cite_start]*Intelligence*: Is it capable of active synthesis ("Thinker") or is it purely reactive/mechanical ("Non-Thinker")? [cite: 192]
+1. **Physical Entity Sorting Layer**: Evaluates tangible objects along four distinct biological and behavioral axes:
+ - *Mobility*: Can it change location independently or is it anchored?
+ - *World Substance*: Is it a pure physical object or is it a vessel for a mind?
+ - *Self-acting*: Is it an inanimate object ("Dead") or an active biological organism ("Alive")?
+ - *Intelligence*: Is it capable of active synthesis ("Thinker") or is it purely reactive/mechanical ("Non-Thinker")?
 
-2. [cite_start]**Mental Entity Sorting Layer**: Evaluates abstract information structures along three qualitative axes[cite: 193, 194]:
-   - [cite_start]*Origin*: Was this concept derived internally by the mind or was it learned externally from another agent? [cite: 195]
-   - [cite_start]*Validity*: Is this information structurally verified or unverified? [cite: 196]
-   - [cite_start]*Access Control*: Is this information confidential or non-confidential? [cite: 197]
+2. **Mental Entity Sorting Layer**: Evaluates abstract information structures along three qualitative axes:
+ - *Origin*: Was this concept derived internally by the mind or was it learned externally from another agent?
+ - *Validity*: Is this information structurally verified or unverified?
+ - *Access Control*: Is this information confidential or non-confidential?
 
 ### Why this matters
 
-- For computer scientists building AGI, this slide moves categorization beyond simple object recognition (e.g., "this is a cat"). It builds a functional behavioral profile. [cite_start]An intelligent system must know if a physical entity is alive, mobile, and capable of thinking to predict how it will change location or react[cite: 189, 191, 192].
-- [cite_start]By splitting information into *verified/unverified* and *derived/learned*, it emphasizes that an advanced AI must be capable of tracking data lineage and truth values rather than just absorbing text passively[cite: 195, 196].
+- For computer scientists building AGI, this slide moves categorization beyond simple object recognition (e.g., "this is a cat"). It builds a functional behavioral profile. An intelligent system must know if a physical entity is alive, mobile, and capable of thinking to predict how it will change location or react.
+- By splitting information into *verified/unverified* and *derived/learned*, it emphasizes that an advanced AI must be capable of tracking data lineage and truth values rather than just absorbing text passively.
 
 ### Interpretive note
 
-- [cite_start]Notice how "Information" dominates the entire lower mental layer[cite: 194, 196, 197]. [cite_start]The presenter is defining the mind's internal playground as an information management system where sorting data attributes—like security classifications (*confidential*) or authenticity (*verified*)—is the primary mechanism of cognitive organization[cite: 196, 197].
+- Notice how "Information" dominates the entire lower mental layer. The presenter is defining the mind's internal playground as an information management system where sorting data attributes—like security classifications (*confidential*) or authenticity (*verified*)—is the primary mechanism of cognitive organization.
 
 # Slide 21: Size and Notion Hierarchies
 
 - Header: **3. Differentiation**
 - Subtitle: **Size Hierarchy: Delimitation via Size Ratio**
 - Core Structural Mapping:
-  - **physical entities (Part Hierarchies — "is part of")**:
-    - [cite_start]**System groups**: *forest, family, computer farm, city* [cite: 202, 210, 211, 212, 213]
-    - [cite_start]**Systems**: *tree, person, computer, house* [cite: 203, 214, 215, 216, 217]
-    - [cite_start]**System parts**: *branch/leave, leg/arm, keyboard, brick* [cite: 204, 218, 219, 220, 221]
-    - [cite_start]**Materials**: *biological material, plastic, metal, stone* [cite: 205, 222, 223, 224, 225]
-    - [cite_start]**Atoms/molecules/waves**: *C, Tetrapeptid, Fe/Cr, Si* [cite: 206, 226, 227, 228, 229]
-  - **mental entities (Notion Hierarchies — "is a")**:
-    - [cite_start]Structural Path: **Representation** -> **Concept** -> **Abstraction** -> **Instantiation** [cite: 207, 208, 230, 231, 232, 233]
+ - **physical entities (Part Hierarchies — "is part of")**:
+ - **System groups**: *forest, family, computer farm, city*
+ - **Systems**: *tree, person, computer, house*
+ - **System parts**: *branch/leave, leg/arm, keyboard, brick*
+ - **Materials**: *biological material, plastic, metal, stone*
+ - **Atoms/molecules/waves**: *C, Tetrapeptid, Fe/Cr, Si*
+ - **mental entities (Notion Hierarchies — "is a")**:
+ - Structural Path: **Representation** -> **Concept** -> **Abstraction** -> **Instantiation**
 
 ### Conceptual Explanation
 
-[cite_start]This slide introduces a highly rigorous structural classification system based on containment and abstraction hierarchies[cite: 201]. It breaks down how physical and mental entities are organized in relation to one another:
+This slide introduces a highly rigorous structural classification system based on containment and abstraction hierarchies. It breaks down how physical and mental entities are organized in relation to one another:
 
-1. [cite_start]**The Physical Layer (Part Hierarchies / "is part of")**: Operates on a strict spatial and structural scale[cite: 198, 199]. [cite_start]An entity at a lower level is a literal physical component of the level above it[cite: 199]. [cite_start]For example, a *brick* is part of a *house*, which can be grouped into a *city*[cite: 213, 217, 221]. [cite_start]Similarly, *atoms and molecules* (like carbon or silicon) build up raw *materials*, which form *system parts*, which assemble into complete *systems*, which cluster into *system groups*[cite: 202, 203, 204, 205, 206].
-2. [cite_start]**The Mental Layer (Notion Hierarchies / "is a")**: Operates on an inheritance and conceptual scale rather than a physical one[cite: 207, 208, 209]. [cite_start]Instead of tracking physical assembly, it tracks linguistic and logical categorization from a broad **Representation** down to a specific **Instantiation** (a concrete instance of a concept)[cite: 230, 233].
+1. **The Physical Layer (Part Hierarchies / "is part of")**: Operates on a strict spatial and structural scale. An entity at a lower level is a literal physical component of the level above it. For example, a *brick* is part of a *house*, which can be grouped into a *city*. Similarly, *atoms and molecules* (like carbon or silicon) build up raw *materials*, which form *system parts*, which assemble into complete *systems*, which cluster into *system groups*.
+2. **The Mental Layer (Notion Hierarchies / "is a")**: Operates on an inheritance and conceptual scale rather than a physical one. Instead of tracking physical assembly, it tracks linguistic and logical categorization from a broad **Representation** down to a specific **Instantiation** (a concrete instance of a concept).
 
 ### Why this matters
 
@@ -544,20 +544,20 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Interpretive note
 
-- [cite_start]Notice how the layout beautifully mirrors the physical world map for the physical layer and a brain graphic for the mental layer[cite: 198, 207]. 
-- [cite_start]The typo *"branch leave"* is kept exactly as written on the presenter's original slide[cite: 218]. [cite_start]The use of chemical formulas ($C$, $Fe$, $Cr$, $Si$) and biological strings (*Tetrapeptid*) highlights that the presenter anchors software modeling directly to real-world physics and biochemistry[cite: 226, 227, 228, 229].
+- Notice how the layout beautifully mirrors the physical world map for the physical layer and a brain graphic for the mental layer.
+- The typo *"branch leave"* is kept exactly as written on the presenter's original slide. The use of chemical formulas ($C$, $Fe$, $Cr$, $Si$) and biological strings (*Tetrapeptid*) highlights that the presenter anchors software modeling directly to real-world physics and biochemistry.
 
 # Slide 22: Introduction to Representation
 
-- Header: **4. [cite_start]Representation** [cite: 234]
-- [cite_start]Core Concept: **Persistencer** [cite: 235]
+- Header: **4. Representation**
+- Core Concept: **Persistencer**
 
 ### Conceptual Explanation
 
-[cite_start]This slide officially introduces the fourth major structural section of the reality agenda: **Representation**[cite: 234]. 
+This slide officially introduces the fourth major structural section of the reality agenda: **Representation**.
 
-- [cite_start]Having mapped out how to categorize external elements, the presenter shifts focus to how those elements are actively recorded and maintained inside a cognitive system[cite: 234, 235]. 
-- [cite_start]The faculty of *Representation* is designated as a **Persistencer**[cite: 235]. This defines its primary functional role: a representation exists to preserve the state, structure, and identity of an external entity over time, allowing an agent to retain knowledge of an object even when that object is no longer actively being perceived by physical sensors.
+- Having mapped out how to categorize external elements, the presenter shifts focus to how those elements are actively recorded and maintained inside a cognitive system.
+- The faculty of *Representation* is designated as a **Persistencer**. This defines its primary functional role: a representation exists to preserve the state, structure, and identity of an external entity over time, allowing an agent to retain knowledge of an object even when that object is no longer actively being perceived by physical sensors.
 
 ### Why this matters
 
@@ -566,21 +566,21 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Interpretive note
 
-- [cite_start]By dedicating an entire transition slide to the single word "Persistencer" [cite: 235][cite_start], the speaker establishes a clean symmetry with the previous section intros: Section 1 (*World*) and Section 3 (*Differentiation*) are "Orientation Givers" [cite: 53, 169][cite_start], while Section 4 (*Representation*) is a structural "Persistencer"[cite: 235]. [cite_start]This perfectly prepares the workshop participants for the interactive modeling prompts on the next slide[cite: 239].
+- By dedicating an entire transition slide to the single word "Persistencer" , the speaker establishes a clean symmetry with the previous section intros: Section 1 (*World*) and Section 3 (*Differentiation*) are "Orientation Givers" , while Section 4 (*Representation*) is a structural "Persistencer". This perfectly prepares the workshop participants for the interactive modeling prompts on the next slide.
 
 # Slide 23: Workshop — Representation
 
-- [cite_start]Title: **Workshop „Representation"** [cite: 239]
+- Title: **Workshop „Representation"**
 - Core Group Prompts:
-  - [cite_start]What different kind of representations do you know? [cite: 240]
-  - [cite_start]Are representations real or virtual? [cite: 241]
+ - What different kind of representations do you know?
+ - Are representations real or virtual?
 
 ### Conceptual Explanation
 
-[cite_start]Following the definition of representation as a structural "Persistencer," this slide initiates an interactive brainstorming session designed to make participants analyze how information is encoded[cite: 239, 240].
+Following the definition of representation as a structural "Persistencer," this slide initiates an interactive brainstorming session designed to make participants analyze how information is encoded.
 
-- [cite_start]The first prompt asks students to list various forms of representation[cite: 240]. In a computer science and cognitive context, this ranges from biological neural pathways and human language to digital database schemas, vector embeddings, and pixel maps.
-- [cite_start]The second prompt introduces an ontological challenge regarding the state of existence of a representation itself[cite: 241]. [cite_start]It forces students to debate whether a map, a memory, or a data structure belongs to the physical, tangible world ("real") or the conceptual, informational world ("virtual")[cite: 241].
+- The first prompt asks students to list various forms of representation. In a computer science and cognitive context, this ranges from biological neural pathways and human language to digital database schemas, vector embeddings, and pixel maps.
+- The second prompt introduces an ontological challenge regarding the state of existence of a representation itself. It forces students to debate whether a map, a memory, or a data structure belongs to the physical, tangible world ("real") or the conceptual, informational world ("virtual").
 
 ### Why this matters
 
@@ -589,25 +589,25 @@ This slide splits the abstract concept of an entity into two primary domains of 
 
 ### Interpretive note
 
-- [cite_start]This interactive prompt sets the baseline for the next few slides, where the presenter systematically visualizes how individual minds (like "Bob," "Cob," and "Rob") construct their own isolated representations of a shared physical world[cite: 248, 249, 250, 251, 252, 253].
+- This interactive prompt sets the baseline for the next few slides, where the presenter systematically visualizes how individual minds (like "Bob," "Cob," and "Rob") construct their own isolated representations of a shared physical world.
 
 # Slide 24: The Scale of Global Representation
 
 - Header: **4. Representation**
-- Visual Architecture: 
-  - [cite_start]A clean horizontal division splitting the **physical** world layer (top) from the **mental** world layer (bottom)[cite: 245, 246, 247].
-  - [cite_start]The upper physical layer displays three individuals: **Bob**, **Cob**, and **Rob**[cite: 248, 249, 250].
-  - [cite_start]The lower mental layer shows three distinct brain graphics, each generating its own localized projection: **Mind of Bob**, **Mind of Cob**, and **Mind of Rob**[cite: 256, 257, 258].
-  - [cite_start]Each individual mind maintains its own isolated internal **Representation**[cite: 251, 252, 253].
-  - [cite_start]To the right, a massive multiplier scale is applied to the mental layer: **... > 8,000,000,000**[cite: 254, 255].
+- Visual Architecture:
+ - A clean horizontal division splitting the **physical** world layer (top) from the **mental** world layer (bottom).
+ - The upper physical layer displays three individuals: **Bob**, **Cob**, and **Rob**.
+ - The lower mental layer shows three distinct brain graphics, each generating its own localized projection: **Mind of Bob**, **Mind of Cob**, and **Mind of Rob**.
+ - Each individual mind maintains its own isolated internal **Representation**.
+ - To the right, a massive multiplier scale is applied to the mental layer: **... > 8,000,000,000**.
 
 ### Conceptual Explanation
 
-This slide transitions the lecture into cognitive pluralism, visually demonstrating how a single, shared physical reality is processed by a global population. 
+This slide transitions the lecture into cognitive pluralism, visually demonstrating how a single, shared physical reality is processed by a global population.
 
-- The diagram uses a strict multi-tier mapping format. [cite_start]The physical world contains the actual human beings (*Bob, Cob, Rob*)[cite: 246, 248, 249, 250]. [cite_start]Their physical biological brains, however, simultaneously instantiate a virtual, internal *mental* layer[cite: 247].
-- [cite_start]Every individual mind acts as an independent processing mirror, creating its own distinct internal *Representation* of reality[cite: 251, 252, 253, 256, 257, 258]. 
-- [cite_start]The inclusion of the figure **> 8,000,000,000** expands this concept to the entire human population[cite: 255]. [cite_start]It establishes that while there is only one physical world container, there are over 8 billion independent, active internal world models running simultaneously across the planet[cite: 255].
+- The diagram uses a strict multi-tier mapping format. The physical world contains the actual human beings (*Bob, Cob, Rob*). Their physical biological brains, however, simultaneously instantiate a virtual, internal *mental* layer.
+- Every individual mind acts as an independent processing mirror, creating its own distinct internal *Representation* of reality.
+- The inclusion of the figure **> 8,000,000,000** expands this concept to the entire human population. It establishes that while there is only one physical world container, there are over 8 billion independent, active internal world models running simultaneously across the planet.
 
 ### Why this matters
 
@@ -623,10 +623,10 @@ This slide transitions the lecture into cognitive pluralism, visually demonstrat
 - Header: **4. Representation**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is a Representation?** -> *An active simulation/copy of an existing entity.*
-  - **Can the Mind perceive the entity directly?** -> **No. Only through the Representation.**
-  - **Can a Representation be changed with no consequence for the Entity?** -> **Yes.**
-  - **Can a Representation be identical to the Entity?** -> **No.**
+ - **What is a Representation?** -> *An active simulation/copy of an existing entity.*
+ - **Can the Mind perceive the entity directly?** -> **No. Only through the Representation.**
+ - **Can a Representation be changed with no consequence for the Entity?** -> **Yes.**
+ - **Can a Representation be identical to the Entity?** -> **No.**
 
 ### Conceptual Explanation
 
@@ -651,7 +651,7 @@ This slide defines the structural laws of cognitive computing, establishing what
 - Header: **4. Representation**
 - Subtitle: **Architecture**
 - Structural Flow Diagram:
-  $$\text{Real Entity} \longrightarrow \text{Sensors (Perception)} \longrightarrow \text{Data / Signal Processing} \longrightarrow \text{Internal Representation (Simulation)}$$
+ $$\text{Real Entity} \longrightarrow \text{Sensors (Perception)} \longrightarrow \text{Data / Signal Processing} \longrightarrow \text{Internal Representation (Simulation)}$$
 
 ### Conceptual Explanation
 
@@ -665,7 +665,7 @@ The architecture follows a strict downstream flow:
 
 ### Why this matters
 
-- This slide provides the explicit system engineering architecture for both biological brains and advanced AI. It demonstrates that perception is a multi-stage translation problem. 
+- This slide provides the explicit system engineering architecture for both biological brains and advanced AI. It demonstrates that perception is a multi-stage translation problem.
 - For autonomous vehicles or robotics engineers, it reinforces that an AI cannot skip steps: it must translate raw camera frames (*Sensors*) through deep neural networks (*Signal Processing*) before it can construct a stable, actionable 3D vector space (*Internal Representation*) to plan its next move.
 
 ### Interpretive note
@@ -679,14 +679,14 @@ The architecture follows a strict downstream flow:
 
 ### Conceptual Explanation
 
-This slide transitions the workshop into the fifth major section of the agenda: **Primary Reality**. 
+This slide transitions the workshop into the fifth major section of the agenda: **Primary Reality**.
 
 - Up to this point, the presentation focused on how a single, isolated mind builds its own internal sandbox (*My Representation*). This slide introduces social and multi-agent dynamics by colliding two distinct internal models: **My Representation & Yours**.
 - **Primary Reality** is defined here as the shared canvas where multiple independent observers interact. It is the real-time intersection where my subjective internal simulation meets your subjective internal simulation, forced to coordinate because we both inhabit the exact same physical world container.
 
 ### Why this matters
 
-- For computer scientists working on multi-agent AI systems, collaborative robotics, or human-AI interaction, this slide represents the foundation of shared context. 
+- For computer scientists working on multi-agent AI systems, collaborative robotics, or human-AI interaction, this slide represents the foundation of shared context.
 - An AI cannot operate effectively if it only maximizes its own internal utility function based on its own world model. It must possess a "Theory of Mind"—the computational capacity to model *your* representation alongside *its own*—to negotiate, communicate, and safely co-exist in a shared environment.
 
 ### Interpretive note
@@ -697,11 +697,11 @@ This slide transitions the workshop into the fifth major section of the agenda: 
 
 - Header: **5. Primary Reality**
 - Visual Architecture:
-  - A central, real-world **Physical Entity** (modeled as a physical object/cube).
-  - Two distinct cognitive agents observing it from opposite sides: **Mind of Bob** and **Mind of Cob**.
-  - **Mind of Bob** constructs an internal *Representation of Bob*.
-  - **Mind of Cob** constructs an internal *Representation of Cob*.
-  - Bi-directional communication vectors connect the two minds directly, bypassing the physical object.
+ - A central, real-world **Physical Entity** (modeled as a physical object/cube).
+ - Two distinct cognitive agents observing it from opposite sides: **Mind of Bob** and **Mind of Cob**.
+ - **Mind of Bob** constructs an internal *Representation of Bob*.
+ - **Mind of Cob** constructs an internal *Representation of Cob*.
+ - Bi-directional communication vectors connect the two minds directly, bypassing the physical object.
 
 ### Conceptual Explanation
 
@@ -712,7 +712,7 @@ This slide provides a complete visual layout of **Primary Reality** in action, i
 
 ### Why this matters
 
-- This is the classic architectural diagram for multi-agent systems in AI. When two autonomous robots (or a human and an AI assistant) are tasked with moving a heavy object together, they must continuously pass state messages back and forth. 
+- This is the classic architectural diagram for multi-agent systems in AI. When two autonomous robots (or a human and an AI assistant) are tasked with moving a heavy object together, they must continuously pass state messages back and forth.
 - They do this to ensure their internal maps of the object's position, velocity, and orientation are perfectly calibrated, preventing mechanical failure or coordination collapse.
 
 ### Interpretive note
@@ -724,10 +724,10 @@ This slide provides a complete visual layout of **Primary Reality** in action, i
 - Header: **5. Primary Reality**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is the Primary Reality?** -> *What we face together (Physical World).*
-  - **Can we change the Primary Reality?** -> **Yes. Directly via Physical Action.**
-  - **Do we have the same Representation of it?** -> **No. Each mind has its own.**
-  - **Is there an Objective Truth in Primary Reality?** -> **Yes.**
+ - **What is the Primary Reality?** -> *What we face together (Physical World).*
+ - **Can we change the Primary Reality?** -> **Yes. Directly via Physical Action.**
+ - **Do we have the same Representation of it?** -> **No. Each mind has its own.**
+ - **Is there an Objective Truth in Primary Reality?** -> **Yes.**
 
 ### Conceptual Explanation
 
@@ -754,14 +754,14 @@ This slide defines the axiomatic laws of **Primary Reality**, resolving the tens
 
 ### Conceptual Explanation
 
-This slide transitions the lecture into the sixth major section of the agenda: **n-ary Reality**. 
+This slide transitions the lecture into the sixth major section of the agenda: **n-ary Reality**.
 
 - The presenter advances from a shared physical space (*Primary Reality*) into a completely abstract, shared *informational* space. **n-ary Reality** is defined by the layered phrase: **"Representations of Representations."**
 - This concept tracks what happens when minds stop modeling physical objects (like trees or laptops) and instead begin creating internal representations of other people's thoughts, cultural beliefs, institutional systems, or collective data networks. It represents a nested, recursive architecture of human and machine cognition.
 
 ### Why this matters
 
-- For computer scientists, this slide marks the transition from basic sensory perception to high-level symbolic reasoning and meta-cognition. 
+- For computer scientists, this slide marks the transition from basic sensory perception to high-level symbolic reasoning and meta-cognition.
 - Advanced AI systems cannot just parse the physical environment; they must navigate *n-ary realities*—including legal frameworks, financial markets, social media networks, and corporate structures. These systems do not possess a physical weight or volume, yet they govern the behavior of the world through layered, shared agreements.
 
 ### Interpretive note
@@ -772,24 +772,24 @@ This slide transitions the lecture into the sixth major section of the agenda: *
 
 - Header: **6. n-ary Reality**
 - Visual Architecture:
-  - A multi-tiered cognitive network displaying three interconnected agents: **Bob**, **Cob**, and **Rob**.
-  - **Mind of Bob** contains an internal *Representation of Cob's Representation*.
-  - **Mind of Cob** contains an internal *Representation of Rob's Representation*.
-  - **Mind of Rob** contains an internal *Representation of Bob's Representation*.
-  - A central, floating abstract cloud labeled **"Shared System / Layered Reality"** connects all three internal states.
+ - A multi-tiered cognitive network displaying three interconnected agents: **Bob**, **Cob**, and **Rob**.
+ - **Mind of Bob** contains an internal *Representation of Cob's Representation*.
+ - **Mind of Cob** contains an internal *Representation of Rob's Representation*.
+ - **Mind of Rob** contains an internal *Representation of Bob's Representation*.
+ - A central, floating abstract cloud labeled **"Shared System / Layered Reality"** connects all three internal states.
 
 ### Conceptual Explanation
 
 This slide provides the full visual mechanics of **n-ary Reality**, demonstrating how collective social systems and recursive networks are formed when minds model other minds rather than physical objects.
 
-- Unlike Slide 28—where Bob and Cob aligned their thoughts by looking down at a physical cube—the physical layer here is entirely bypassed. 
-- The agents are engaged in recursive perspective tracking: Bob is simulating what he thinks Cob believes; Cob is simulating what he thinks Rob believes; and Rob is tracking Bob. 
+- Unlike Slide 28—where Bob and Cob aligned their thoughts by looking down at a physical cube—the physical layer here is entirely bypassed.
+- The agents are engaged in recursive perspective tracking: Bob is simulating what he thinks Cob believes; Cob is simulating what he thinks Rob believes; and Rob is tracking Bob.
 - This looping feedback mechanism generates a completely virtual, yet highly stable, **Shared System / Layered Reality** that floats independently of immediate physical objects.
 
 ### Why this matters
 
-- This is the explicit architectural map for modeling multi-agent coordination, game theory, and distributed consensus algorithms in computer science. 
-- For an AI to effectively navigate human society, it must master this exact $n$-ary stack. It needs to calculate not just raw data, but recursive social dynamics (e.g., *"If I execute action X, user A will think that I intend to do Y, which will cause user B to react with Z"*). 
+- This is the explicit architectural map for modeling multi-agent coordination, game theory, and distributed consensus algorithms in computer science.
+- For an AI to effectively navigate human society, it must master this exact $n$-ary stack. It needs to calculate not just raw data, but recursive social dynamics (e.g., *"If I execute action X, user A will think that I intend to do Y, which will cause user B to react with Z"*).
 
 ### Interpretive note
 
@@ -800,10 +800,10 @@ This slide provides the full visual mechanics of **n-ary Reality**, demonstratin
 - Header: **6. n-ary Reality**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is an n-ary Reality?** -> *Shared Representations (e.g., Languages, Rules, Money).*
-  - **Can we change the n-ary Reality?** -> **Yes. Indirectly via Communication/Agreement.**
-  - **Is there an Objective Truth in n-ary Reality?** -> **No. Only Shared Agreements.**
-  - **Can it collapse?** -> **Yes. If the agreement stops.**
+ - **What is an n-ary Reality?** -> *Shared Representations (e.g., Languages, Rules, Money).*
+ - **Can we change the n-ary Reality?** -> **Yes. Indirectly via Communication/Agreement.**
+ - **Is there an Objective Truth in n-ary Reality?** -> **No. Only Shared Agreements.**
+ - **Can it collapse?** -> **Yes. If the agreement stops.**
 
 ### Conceptual Explanation
 
@@ -851,10 +851,10 @@ This slide serves as the final synthesis of Module C, bringing the entire ontolo
 - Header: **6. n-ary Reality**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **What is Secondary Reality?** → *Representation of the Primary Reality of Another Individual.*
-  - **What is n-ary Reality?** → *Representation of a (n-1)ary Reality of Another Individual.*
-  - **What is Tertiary Reality?** → *Representation of a Secondary Reality of Another Individual.*
-  - **How Many Realities Can One Individual have?** → *Depends on the Amount of his or her Known Individuals.*
+ - **What is Secondary Reality?** → *Representation of the Primary Reality of Another Individual.*
+ - **What is n-ary Reality?** → *Representation of a (n-1)ary Reality of Another Individual.*
+ - **What is Tertiary Reality?** → *Representation of a Secondary Reality of Another Individual.*
+ - **How Many Realities Can One Individual have?** → *Depends on the Amount of his or her Known Individuals.*
 
 ### Conceptual Explanation
 
@@ -877,11 +877,11 @@ This slide formalizes the recursive layers of socially constructed realities tha
 
 - Header: **6. n-ary Reality**
 - Visual Layout:
-  - Three brain graphics representing **Bob**, **Cob**, and **Rob**.
-  - Cross-connections showing:
-    - **Secondary Reality of Cob about Rob** (Cob's internal model of Rob)
-    - **Tertiary Reality of Bob's Secondary Reality about Cob** (a three-level nested model)
-  - Split between **physical (real)** and **mental (virtual)** domains.
+ - Three brain graphics representing **Bob**, **Cob**, and **Rob**.
+ - Cross-connections showing:
+ - **Secondary Reality of Cob about Rob** (Cob's internal model of Rob)
+ - **Tertiary Reality of Bob's Secondary Reality about Cob** (a three-level nested model)
+ - Split between **physical (real)** and **mental (virtual)** domains.
 
 ### Conceptual Explanation
 
@@ -905,21 +905,21 @@ This slide visualizes the multi-brain network required to sustain n-ary realitie
 - Header: **6. n-ary Reality**
 - Content: A comprehensive matrix showing all reality layers accessible to three agents (**Bob**, **Cob**, **Rob**).
 - Enumerated structures:
-  1. Primary Reality (shared)
-  2. Secondary Realities (each agent's view of the others: Secondary of Bob, Secondary of Cob, Secondary of Rob)
-  3. Tertiary Realities (each agent's model of another's model: Bob's view of Cob's view of Rob, etc.)
-  4. Quaternary Realities (nested three levels: e.g., *Cob's Tertiary Reality of Bob's Secondary Reality of Rob*)
+ 1. Primary Reality (shared)
+ 2. Secondary Realities (each agent's view of the others: Secondary of Bob, Secondary of Cob, Secondary of Rob)
+ 3. Tertiary Realities (each agent's model of another's model: Bob's view of Cob's view of Rob, etc.)
+ 4. Quaternary Realities (nested three levels: e.g., *Cob's Tertiary Reality of Bob's Secondary Reality of Rob*)
 
 ### Conceptual Explanation
 
 This slide provides the exhaustive enumeration of all reality layers maintained by a three-agent system.
 
 - For Bob, the enumeration includes:
-  - Primary Reality (the shared baseline)
-  - Secondary Reality of Cob, Secondary Reality of Rob
-  - Tertiary Reality of Cob's Secondary Reality of Bob, Tertiary Reality of Rob's Secondary Reality of Bob
-  - Quaternary Realities tracking even deeper recursive nesting
-  
+ - Primary Reality (the shared baseline)
+ - Secondary Reality of Cob, Secondary Reality of Rob
+ - Tertiary Reality of Cob's Secondary Reality of Bob, Tertiary Reality of Rob's Secondary Reality of Bob
+ - Quaternary Realities tracking even deeper recursive nesting
+
 - This same enumeration is replicated for Cob and Rob, creating a fully interconnected epistemic network.
 
 ### Why this matters
@@ -935,10 +935,10 @@ This slide provides the exhaustive enumeration of all reality layers maintained 
 
 - Header: **n-ary Realities**
 - Visual: A pyramid or layered hierarchy:
-  - **Level 1 (Base)**: Primary Reality
-  - **Level 2**: Secondary Realities (Subjective/Individual Reality)
-  - **Level 3**: Tertiary Realities
-  - **Level 4+**: Quaternary Realities, n-ary Realities (n > 4)
+ - **Level 1 (Base)**: Primary Reality
+ - **Level 2**: Secondary Realities (Subjective/Individual Reality)
+ - **Level 3**: Tertiary Realities
+ - **Level 4+**: Quaternary Realities, n-ary Realities (n > 4)
 
 ### Conceptual Explanation
 
@@ -961,12 +961,12 @@ This slide compresses the complex enumeration from Slide 34 into a clean hierarc
 
 - Header: **Workshop „Reality description"**
 - Task: **Describe a very very small but well known part of the world.**
-  - Called a **"discourse world"**
-  - Example: **K.0.11 today** — the lecture room K.0.11 on 27 March 2026 between 13:30 and now.
+ - Called a **"discourse world"**
+ - Example: **K.0.11 today** — the lecture room K.0.11 on 27 March 2026 between 13:30 and now.
 - Instructions:
-  - Describe the discourse world in your own words.
-  - Describe the discourse world using a formal modelling technique or language.
-  - What is the challenge of modelling discourse worlds?
+ - Describe the discourse world in your own words.
+ - Describe the discourse world using a formal modelling technique or language.
+ - What is the challenge of modelling discourse worlds?
 
 ### Conceptual Explanation
 
@@ -1011,14 +1011,14 @@ This slide introduces the final two concepts that will anchor the conclusion: th
 - Header: **7. Conclusion**
 - Section: **Paradox?**
 - The Paradoxical Chain:
-  - (a) Mental entities are part of the mental world.
-  - (b) The mental world takes place in brains.
-  - (c) Brains are part of the real world.
-  - (d) **Therefore, Mental entities are part of the physical world.**
+ - (a) Mental entities are part of the mental world.
+ - (b) The mental world takes place in brains.
+ - (c) Brains are part of the real world.
+ - (d) **Therefore, Mental entities are part of the physical world.**
 - Section: **Dualisms?**
 - The Fundamental Dualities:
-  - **Thoughts are PHYSICAL and MENTAL.**
-  - **Our minds belong to ourself AND the world.**
+ - **Thoughts are PHYSICAL and MENTAL.**
+ - **Our minds belong to ourself AND the world.**
 
 ### Conceptual Explanation
 

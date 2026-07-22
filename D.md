@@ -1,17 +1,17 @@
 # Slide 1: Title and Administration
 
-- [cite_start]Header/Title: **Strong Artificial Intelligence** [cite: 1]
-- [cite_start]Module Name: **D Time and Space** [cite: 2]
-- [cite_start]Subtitle: **Guarantors of Entities** [cite: 3]
-- Presenter: **Prof. Dr. Dr. h. c. [cite_start]Robert Grebner** [cite: 4]
-- [cite_start]Institution: **Technical University of Applied Sciences, Würzburg** (Technische Hochschule Würzburg-Schweinfurt - THWS) [cite: 5, 6, 7]
-- [cite_start]Date: **2026-04-10** [cite: 5]
+- Header/Title: **Strong Artificial Intelligence**
+- Module Name: **D Time and Space**
+- Subtitle: **Guarantors of Entities**
+- Presenter: **Prof. Dr. Dr. h. c. Robert Grebner**
+- Institution: **Technical University of Applied Sciences, Würzburg** (Technische Hochschule Würzburg-Schweinfurt - THWS)
+- Date: **2026-04-10**
 
 ### Conceptual Explanation
 
-[cite_start]This slide serves as the official administrative cover page for Module D of the curriculum[cite: 2]. [cite_start]Having previously analyzed the overarching framework of the environmental container and entity taxonomy in Module C, the presenter now focuses on the two fundamental dimensions that anchor those entities: Time and Space[cite: 2, 3]. 
+This slide serves as the official administrative cover page for Module D of the curriculum. Having previously analyzed the overarching framework of the environmental container and entity taxonomy in Module C, the presenter now focuses on the two fundamental dimensions that anchor those entities: Time and Space.
 
-[cite_start]The subtitle designated here—**"Guarantors of Entities"**—establishes a powerful metaphysical theme[cite: 3]. It posits that an entity cannot safely maintain its identity, continuity, or isolation without a underlying structural canvas of time and space to validate its existence.
+The subtitle designated here—**"Guarantors of Entities"**—establishes a powerful metaphysical theme. It posits that an entity cannot safely maintain its identity, continuity, or isolation without a underlying structural canvas of time and space to validate its existence.
 
 ### Why this matters
 
@@ -20,25 +20,25 @@
 
 ### Interpretive note
 
-- [cite_start]The explicit dating to **2026-04-10** aligns this deck with the current technical semester timeline[cite: 5]. 
-- [cite_start]The presentation structure highlights a direct, formalized continuation of the "Strong Artificial Intelligence" seminar framework[cite: 1].
+- The explicit dating to **2026-04-10** aligns this deck with the current technical semester timeline.
+- The presentation structure highlights a direct, formalized continuation of the "Strong Artificial Intelligence" seminar framework.
 
 # Slide 2: Repetition „Reality"
 
-- [cite_start]Header: **Repetition „Reality"** [cite: 9]
+- Header: **Repetition „Reality"**
 - Core Review Questions:
-  - [cite_start]What is reality? [cite: 10]
-  - [cite_start]Which kind of realities can be differentiated? [cite: 11]
-  - [cite_start]Who defines the subjective reality and out of what? [cite: 12]
+ - What is reality?
+ - Which kind of realities can be differentiated?
+ - Who defines the subjective reality and out of what?
 
 ### Conceptual Explanation
 
-[cite_start]This slide serves as a pedagogical bridge, pulling forward the core conclusions from the previous module (**Module C: Reality**) before diving into the mechanics of time and space[cite: 9]. By forcing students to recap these concepts, the presenter primes them to anchor the incoming definitions of physics and logic into the ontological tiers they just mastered.
+This slide serves as a pedagogical bridge, pulling forward the core conclusions from the previous module (**Module C: Reality**) before diving into the mechanics of time and space. By forcing students to recap these concepts, the presenter primes them to anchor the incoming definitions of physics and logic into the ontological tiers they just mastered.
 
 The questions directly prompt a review of:
-- [cite_start]The distinction between the objective physical container and internal mental sandboxes[cite: 11].
-- [cite_start]The transition from Primary Reality (shared physical space) to $n$-ary Reality (shared mental agreements like language and money)[cite: 11].
-- [cite_start]How an individual processing agent (the "Who") synthesizes raw sensory data and internal representations to construct their own localized, subjective simulation of the world (the "out of what")[cite: 12].
+- The distinction between the objective physical container and internal mental sandboxes.
+- The transition from Primary Reality (shared physical space) to $n$-ary Reality (shared mental agreements like language and money).
+- How an individual processing agent (the "Who") synthesizes raw sensory data and internal representations to construct their own localized, subjective simulation of the world (the "out of what").
 
 ### Why this matters
 
@@ -47,28 +47,28 @@ The questions directly prompt a review of:
 
 ### Interpretive note
 
-- [cite_start]The intentional use of German punctuation marks in the header („Reality") reflects the local academic environment of the German technical university (THWS)[cite: 9, 14]. This slide acts as a classic baseline check to ensure all seminar participants are aligned on vocabulary before the lecture moves into the next phase.
+- The intentional use of German punctuation marks in the header („Reality") reflects the local academic environment of the German technical university (THWS). This slide acts as a classic baseline check to ensure all seminar participants are aligned on vocabulary before the lecture moves into the next phase.
 
 # Slide 3: Workshop — Time and Space
 
-- [cite_start]Title: **Workshop  Time and Space** [cite: 16]
+- Title: **Workshop Time and Space**
 - Core Brainstorming Prompts:
-  - What is time? [cite_start]Define! [cite: 17]
-  - What is space? [cite_start]Define! [cite: 18]
-  - [cite_start]What are the consequences of a world without time? [cite: 19]
-  - [cite_start]What are the consequences of a world without space? [cite: 20]
-  - [cite_start]What medium connects time and space together? [cite: 21]
-  - [cite_start]What entity nature has time: physical or mental? [cite: 22]
-  - [cite_start]What entity nature has space: physical or mental? [cite: 23]
+ - What is time? Define!
+ - What is space? Define!
+ - What are the consequences of a world without time?
+ - What are the consequences of a world without space?
+ - What medium connects time and space together?
+ - What entity nature has time: physical or mental?
+ - What entity nature has space: physical or mental?
 
 ### Conceptual Explanation
 
-[cite_start]This slide initiates an interactive workshop session designed to challenge the participants' intuitive, everyday understanding of physics and metaphysics[cite: 16]. [cite_start]By forcing students to explicitly define "time" and "space," the presenter exposes how difficult it is to conceptualize these dimensions outside of standard mathematical variables[cite: 17, 18]. 
+This slide initiates an interactive workshop session designed to challenge the participants' intuitive, everyday understanding of physics and metaphysics. By forcing students to explicitly define "time" and "space," the presenter exposes how difficult it is to conceptualize these dimensions outside of standard mathematical variables.
 
 The prompt sequence breaks down into three distinct cognitive exercises:
-1. [cite_start]**The Boundary Test**: Asking for the consequences of a world lacking either time or space forces the students to think about what these dimensions actually *do* for an environment (e.g., without time, change is static; without space, all matter collapses into a single point)[cite: 19, 20].
-2. [cite_start]**The Bridging Factor**: Investigating the "medium" that connects them primes the audience for the core technical thesis of the module[cite: 21].
-3. [cite_start]**Ontological Classification**: Forcing an assignment of "physical vs. mental entity nature" ties directly back to the sorting layers established in Module C[cite: 22, 23].
+1. **The Boundary Test**: Asking for the consequences of a world lacking either time or space forces the students to think about what these dimensions actually *do* for an environment (e.g., without time, change is static; without space, all matter collapses into a single point).
+2. **The Bridging Factor**: Investigating the "medium" that connects them primes the audience for the core technical thesis of the module.
+3. **Ontological Classification**: Forcing an assignment of "physical vs. mental entity nature" ties directly back to the sorting layers established in Module C.
 
 ### Why this matters
 
@@ -81,67 +81,67 @@ The prompt sequence breaks down into three distinct cognitive exercises:
 
 # Slide 4: Agenda and Structural Guarantees
 
-- [cite_start]Header: **D Time and Space** [cite: 27]
+- Header: **D Time and Space**
 - Structural Agenda:
-  1. [cite_start]**Time** (Guarantor for Uniqueness and Singularity) [cite: 28, 38]
-  2. [cite_start]**Time Logic** (Sooner or Later/Before and After) [cite: 29, 39]
-  3. [cite_start]**Space** (Guarantor for Delimitability) [cite: 30, 40]
-  4. [cite_start]**Space Logic** (Sphere Directions) [cite: 31, 41]
-  5. [cite_start]**Time Space** (Motion) [cite: 32, 42]
-  6. [cite_start]**Time Space Logic** (Is part of) [cite: 33, 43]
-  7. [cite_start]**Conclusion** (Inseparable Twins) [cite: 34, 44]
+ 1. **Time** (Guarantor for Uniqueness and Singularity)
+ 2. **Time Logic** (Sooner or Later/Before and After)
+ 3. **Space** (Guarantor for Delimitability)
+ 4. **Space Logic** (Sphere Directions)
+ 5. **Time Space** (Motion)
+ 6. **Time Space Logic** (Is part of)
+ 7. **Conclusion** (Inseparable Twins)
 
 ### Conceptual Explanation
 
-[cite_start]This slide outlines the formal table of contents for Module D, mapping each architectural layer of time and space to its core existential function[cite: 27, 28, 29, 30, 31, 32, 33, 34]. The presenter pair-links every technical tracking topic with a foundational metaphysical role:
+This slide outlines the formal table of contents for Module D, mapping each architectural layer of time and space to its core existential function. The presenter pair-links every technical tracking topic with a foundational metaphysical role:
 
-- [cite_start]**Time as a Guarantor for Uniqueness and Singularity**: Establishes that an entity can occupy a specific state at a specific moment precisely because time isolates occurrences[cite: 28, 38]. 
-- [cite_start]**Space as a Guarantor for Delimitability**: Builds on Module C's focus on boundaries, defining physical space as the canvas that allows entities to remain physically segmented and detached from one another[cite: 30, 40].
-- [cite_start]**Motion and Inseparable Twins**: Previews the ultimate structural intersection where space and time merge into a single computational tracking mechanism (**Motion**)[cite: 32, 34, 42, 44].
+- **Time as a Guarantor for Uniqueness and Singularity**: Establishes that an entity can occupy a specific state at a specific moment precisely because time isolates occurrences.
+- **Space as a Guarantor for Delimitability**: Builds on Module C's focus on boundaries, defining physical space as the canvas that allows entities to remain physically segmented and detached from one another.
+- **Motion and Inseparable Twins**: Previews the ultimate structural intersection where space and time merge into a single computational tracking mechanism (**Motion**).
 
 ### Why this matters
 
-- For computer scientists engineering AGI, this agenda builds a complete logical stack for coordinate systems. [cite_start]It moves systems from tracking temporal intervals (**Time Logic**) and spatial orientations (**Space Logic**) up to full multi-dimensional kinematic paths (**Time Space Logic**)[cite: 29, 31, 33, 39, 41, 43].
-- [cite_start]It shows that data engines cannot treat time stamps and 3D space vectors as disconnected metadata fields; they are twin parameters that must work together to maintain world state coherence[cite: 34, 44].
+- For computer scientists engineering AGI, this agenda builds a complete logical stack for coordinate systems. It moves systems from tracking temporal intervals (**Time Logic**) and spatial orientations (**Space Logic**) up to full multi-dimensional kinematic paths (**Time Space Logic**).
+- It shows that data engines cannot treat time stamps and 3D space vectors as disconnected metadata fields; they are twin parameters that must work together to maintain world state coherence.
 
 ### Interpretive note
 
-- [cite_start]The phrase *"Is part of"* next to Time Space Logic indicates that the composition rules (part-whole hierarchies) established for physical entities in Module C will be explicitly cross-referenced with spatial and temporal bounds here[cite: 43].
+- The phrase *"Is part of"* next to Time Space Logic indicates that the composition rules (part-whole hierarchies) established for physical entities in Module C will be explicitly cross-referenced with spatial and temporal bounds here.
 
 # Slide 5: Time Fundamentals
 
-- Header: **1. [cite_start]Time** [cite: 45]
-- [cite_start]Section: **Fundamentals** [cite: 46]
+- Header: **1. Time**
+- Section: **Fundamentals**
 - Core Questions & Answers:
-  - **Does Change/Movement Always Need Time?** -> *Yes. [cite_start]Think of Speed of Light $c$ and the Special Theory of Relativity.* [cite: 47, 48]
-  - **What is Time?** -> *A Mental Concept* [cite: 49, 50]
-  - **Is Time a Physical Entity?** -> *No.* [cite: 51, 56]
-  - **What is Time Used for?** -> *To Put Movements in Order.* [cite: 52, 57]
+ - **Does Change/Movement Always Need Time?** -> *Yes. Think of Speed of Light $c$ and the Special Theory of Relativity.*
+ - **What is Time?** -> *A Mental Concept*
+ - **Is Time a Physical Entity?** -> *No.*
+ - **What is Time Used for?** -> *To Put Movements in Order.*
 
 ### Conceptual Explanation
 
-This slide defines the baseline rules for temporal representation within an intelligent agent's architecture. The presenter establishes a definitive stance on the true nature of time: it does not exist as a tangible, physical entity out in the objective container world[cite: 51, 56]. Instead, it is classified as a pure **Mental Concept**—a cognitive data framework constructed internally by a mind[cite: 50].
+This slide defines the baseline rules for temporal representation within an intelligent agent's architecture. The presenter establishes a definitive stance on the true nature of time: it does not exist as a tangible, physical entity out in the objective container world. Instead, it is classified as a pure **Mental Concept**—a cognitive data framework constructed internally by a mind.
 
-However, this internal concept is strictly bound to real-world physics[cite: 48]. By referencing the **Speed of Light $c$** and Einstein's **Special Theory of Relativity**, the presenter highlights that physical change or movement can never happen instantaneously[cite: 48]; it faces a cosmic speed limit. Therefore, an intelligent mind requires the mental framework of time for a single operational purpose: **to sort, sequence, and put movements into a structured chronological order**[cite: 57].
+However, this internal concept is strictly bound to real-world physics. By referencing the **Speed of Light $c$** and Einstein's **Special Theory of Relativity**, the presenter highlights that physical change or movement can never happen instantaneously; it faces a cosmic speed limit. Therefore, an intelligent mind requires the mental framework of time for a single operational purpose: **to sort, sequence, and put movements into a structured chronological order**.
 
 ### Why this matters
 
 - For computer scientists building AGI, this slide outlines why temporal indexing is required. Time is not something your hardware sensors directly capture like a photon or a sound wave. It is a data-structuring system that the agent must implement to map out causal chains and plan sequential actions.
-- It anchors software logic to relativistic constraints, ensuring that multi-threaded processes or distributed agent nodes realize that changes always incur a physical propagation delay[cite: 48].
+- It anchors software logic to relativistic constraints, ensuring that multi-threaded processes or distributed agent nodes realize that changes always incur a physical propagation delay.
 
 ### Interpretive note
 
-- The use of the standard physical variable $c$ for the speed of light reinforces the speaker's method of anchoring abstract software design directly to the hard constraints of modern physics[cite: 48].
+- The use of the standard physical variable $c$ for the speed of light reinforces the speaker's method of anchoring abstract software design directly to the hard constraints of modern physics.
 
 # Slide 6: Counterfactual Analysis — A World Without Time
 
 - Header: **1. Time**
 - Section: **Without**
 - Core Thought Experiment Variables:
-  - **Change/Movement?** $\longrightarrow$ *Change/Movement without Delay.*
-  - **Location?** $\longrightarrow$ *No Dedicated Location for one Entity.*
-  - **Entities?** $\longrightarrow$ *No Entities?*
-  - **World?** $\longrightarrow$ *No World?*
+ - **Change/Movement?** $\longrightarrow$ *Change/Movement without Delay.*
+ - **Location?** $\longrightarrow$ *No Dedicated Location for one Entity.*
+ - **Entities?** $\longrightarrow$ *No Entities?*
+ - **World?** $\longrightarrow$ *No World?*
 
 ### Conceptual Explanation
 
@@ -166,9 +166,9 @@ This slide fills in the questions posed in the initial workshop (Slide 3) by ana
 
 ### Conceptual Explanation
 
-[cite_start]This slide presents the formal, definitive definition of time used throughout the rest of the course curriculum[cite: 72]. [cite_start]Having demonstrated that a world without time collapses into a chaotic, instantaneous blur (Slide 6), the presenter anchors time directly to the act of observation[cite: 72]. 
+This slide presents the formal, definitive definition of time used throughout the rest of the course curriculum. Having demonstrated that a world without time collapses into a chaotic, instantaneous blur (Slide 6), the presenter anchors time directly to the act of observation.
 
-[cite_start]According to this axiom, time is fundamentally a cognitive mechanism that enforces singularity[cite: 72]. [cite_start]When an intelligent mind observes an entity at a specific point along a sequence, that unique sensory snapshot—that exact configuration of matter and states—can only happen a single time[cite: 72]. [cite_start]Even if the entity returns to the exact same physical coordinates later, it is a *new* perception slot in the sequence[cite: 72]. [cite_start]Time is simply the internal mental metric that tracks this unrepeatable flow of experience[cite: 50, 72].
+According to this axiom, time is fundamentally a cognitive mechanism that enforces singularity. When an intelligent mind observes an entity at a specific point along a sequence, that unique sensory snapshot—that exact configuration of matter and states—can only happen a single time. Even if the entity returns to the exact same physical coordinates later, it is a *new* perception slot in the sequence. Time is simply the internal mental metric that tracks this unrepeatable flow of experience.
 
 ### Why this matters
 
@@ -177,22 +177,22 @@ This slide fills in the questions posed in the initial workshop (Slide 3) by ana
 
 ### Interpretive note
 
-- [cite_start]Notice the slight typo in the original slide text (*"percived"* instead of *perceived* and *"describtion"* in later slides), which is kept intact here to preserve the raw transcript of the lecture deck[cite: 72]. 
-- [cite_start]This slide acts as the definitive conclusion to Section 1 (Time) before the deck transitions into the formal rules of temporal sequencing (Section 2: Time Logic)[cite: 28, 29].
+- Notice the slight typo in the original slide text (*"percived"* instead of *perceived* and *"describtion"* in later slides), which is kept intact here to preserve the raw transcript of the lecture deck.
+- This slide acts as the definitive conclusion to Section 1 (Time) before the deck transitions into the formal rules of temporal sequencing (Section 2: Time Logic).
 
 # Slide 8: Workshop — Time Logic
 
-- [cite_start]Title: **Workshop „Time Logic“** [cite: 76]
+- Title: **Workshop „Time Logic“**
 - Core Group Prompts:
-  - [cite_start]Where do we as humans know from, what is earlier and what is later? [cite: 77]
-  - [cite_start]What do we need to bring the time points of events/movements into an order? [cite: 78]
-  - [cite_start]What are natural time measurements? [cite: 79]
+ - Where do we as humans know from, what is earlier and what is later?
+ - What do we need to bring the time points of events/movements into an order?
+ - What are natural time measurements?
 
 ### Conceptual Explanation
 
-[cite_start]This slide transitions the lecture into Section 2, moving from the metaphysical definition of time to its formal logical mechanics[cite: 29, 83]. [cite_start]The workshop prompts challenge students to analyze how biological brains naturally compute temporal sequences without immediately relying on artificial tools like digital clocks[cite: 105, 108]. 
+This slide transitions the lecture into Section 2, moving from the metaphysical definition of time to its formal logical mechanics. The workshop prompts challenge students to analyze how biological brains naturally compute temporal sequences without immediately relying on artificial tools like digital clocks.
 
-[cite_start]The exercise forces students to break down the internal software of human memory: how we establish causal direction (*earlier vs. later*) [cite: 77][cite_start], what structural requirements or mathematical coordinates are needed to sort discrete events into an organized line [cite: 78][cite_start], and what cyclical phenomena in nature serve as baseline reference intervals[cite: 79].
+The exercise forces students to break down the internal software of human memory: how we establish causal direction (*earlier vs. later*) , what structural requirements or mathematical coordinates are needed to sort discrete events into an organized line , and what cyclical phenomena in nature serve as baseline reference intervals.
 
 ### Why this matters
 
@@ -201,21 +201,21 @@ This slide fills in the questions posed in the initial workshop (Slide 3) by ana
 
 ### Interpretive note
 
-- [cite_start]The use of the German quotation marks (**„Time Logic“**) remains consistent with the module's formatting style[cite: 16, 76]. [cite_start]This slide is designed to provoke discussion on how raw biological perception translates into highly structured logical systems[cite: 98, 105].
+- The use of the German quotation marks (**„Time Logic“**) remains consistent with the module's formatting style. This slide is designed to provoke discussion on how raw biological perception translates into highly structured logical systems.
 
 # Slide 8: Workshop — Time Logic
 
-- [cite_start]Title: **Workshop „Time Logic“** [cite: 76]
+- Title: **Workshop „Time Logic“**
 - Core Group Prompts:
-  - [cite_start]Where do we as humans know from, what is earlier and what is later? [cite: 77]
-  - [cite_start]What do we need to bring the time points of events/movements into an order? [cite: 78]
-  - [cite_start]What are natural time measurements? [cite: 79]
+ - Where do we as humans know from, what is earlier and what is later?
+ - What do we need to bring the time points of events/movements into an order?
+ - What are natural time measurements?
 
 ### Conceptual Explanation
 
-[cite_start]This slide transitions the lecture into Section 2, moving from the metaphysical definition of time to its formal logical mechanics[cite: 29, 83]. [cite_start]The workshop prompts challenge students to analyze how biological brains naturally compute temporal sequences without immediately relying on artificial tools like digital clocks[cite: 105, 108]. 
+This slide transitions the lecture into Section 2, moving from the metaphysical definition of time to its formal logical mechanics. The workshop prompts challenge students to analyze how biological brains naturally compute temporal sequences without immediately relying on artificial tools like digital clocks.
 
-[cite_start]The exercise forces students to break down the internal software of human memory: how we establish causal direction (*earlier vs. later*) [cite: 77][cite_start], what structural requirements or mathematical coordinates are needed to sort discrete events into an organized line [cite: 78][cite_start], and what cyclical phenomena in nature serve as baseline reference intervals[cite: 79].
+The exercise forces students to break down the internal software of human memory: how we establish causal direction (*earlier vs. later*) , what structural requirements or mathematical coordinates are needed to sort discrete events into an organized line , and what cyclical phenomena in nature serve as baseline reference intervals.
 
 ### Why this matters
 
@@ -224,21 +224,21 @@ This slide fills in the questions posed in the initial workshop (Slide 3) by ana
 
 ### Interpretive note
 
-- [cite_start]The use of the German quotation marks (**„Time Logic“**) remains consistent with the module's formatting style[cite: 16, 76]. [cite_start]This slide is designed to provoke discussion on how raw biological perception translates into highly structured logical systems[cite: 98, 105].
+- The use of the German quotation marks (**„Time Logic“**) remains consistent with the module's formatting style. This slide is designed to provoke discussion on how raw biological perception translates into highly structured logical systems.
 
 # Slide 10: Relative vs. Absolute Time Logic
 
 - Header: **2. Time Logic**
 - Subtitle: **Relative Logic vs. Absolute Logic**
 - Architectural Matrix:
-  | Relative Logic (Natural) | Absolute Logic (Artificial) |
-  | :--- | :--- |
-  | - Modelled on **human behavior** | - **Invented** by humans |
-  | - Establishes a **sequence of events** (*sooner or later*) | - Requires a **Reference/Anchor event** (e.g., Birth of Christ - AD) |
-  | - **Rule**: If a memory of event $A$ exists while impression $B$ is processed, then $A$ is *earlier* | - Uses **defined time distances** provided by clocks |
-  | - A simple **impression/event counter** is sufficient | - Synchronized clocks enable comparison of **distributed events** |
-  | - Requires **common synchronizing anchors** to rebuild sequence chains | - Involves **tagging impressions with a timestamp** from a synchronized clock |
-  | - Requires a measurement system to **synchronize multiple threads** | |
+ | Relative Logic (Natural) | Absolute Logic (Artificial) |
+ | :--- | :--- |
+ | - Modelled on **human behavior** | - **Invented** by humans |
+ | - Establishes a **sequence of events** (*sooner or later*) | - Requires a **Reference/Anchor event** (e.g., Birth of Christ - AD) |
+ | - **Rule**: If a memory of event $A$ exists while impression $B$ is processed, then $A$ is *earlier* | - Uses **defined time distances** provided by clocks |
+ | - A simple **impression/event counter** is sufficient | - Synchronized clocks enable comparison of **distributed events** |
+ | - Requires **common synchronizing anchors** to rebuild sequence chains | - Involves **tagging impressions with a timestamp** from a synchronized clock |
+ | - Requires a measurement system to **synchronize multiple threads** | |
 
 ### Conceptual Explanation
 
@@ -261,18 +261,18 @@ This slide defines the two primary data tracking methods used to organize events
 - Header: **2. Time Logic**
 - Core Focus: **Two Definitions — Absolute (clock is needed)**
 - Structural Layout:
-  - **1. [cite_start]Fixed Reference Point**: Reference Point is the Birth of Jesus Christ[cite: 116, 128].
-    - [cite_start]Markers: **BC** (before Christ) [cite: 123] [cite_start]and **AD** (anno Domini)[cite: 132].
-  - **2. [cite_start]Distance**: Derived from natural astronomical cycles subdivided into precise segments[cite: 117, 124, 129]:
-    - [cite_start]**Year** (Sun) [cite: 124] [cite_start]$\longrightarrow$ **Month** ($\frac{\text{Year}}{12}$) [cite: 125, 126] [cite_start]$\longrightarrow$ **Week** ($\text{Day} \times 7$) [cite: 127]
-    - [cite_start]**Day** (Sun) [cite: 129] [cite_start]$\longrightarrow$ **Hour** ($\frac{\text{Day}}{24}$) [cite: 130, 131]
+ - **1. Fixed Reference Point**: Reference Point is the Birth of Jesus Christ.
+ - Markers: **BC** (before Christ) and **AD** (anno Domini).
+ - **2. Distance**: Derived from natural astronomical cycles subdivided into precise segments:
+ - **Year** (Sun) $\longrightarrow$ **Month** ($\frac{\text{Year}}{12}$) $\longrightarrow$ **Week** ($\text{Day} \times 7$)
+ - **Day** (Sun) $\longrightarrow$ **Hour** ($\frac{\text{Day}}{24}$)
 
 ### Conceptual Explanation
 
-[cite_start]This slide formally deconstructs the structural data model behind the **Gregorian Calendar**, serving as the primary example of an **Absolute Time Logic** system[cite: 118, 122]. As established on Slide 10, an absolute temporal architecture cannot function in isolation; it requires two concrete variables:
+This slide formally deconstructs the structural data model behind the **Gregorian Calendar**, serving as the primary example of an **Absolute Time Logic** system. As established on Slide 10, an absolute temporal architecture cannot function in isolation; it requires two concrete variables:
 
-1. [cite_start]**A Fixed Anchor**: A globally agreed-upon chronological origin point ($t = 0$)[cite: 116]. [cite_start]The presentation notes that Western calendar systems use a theological reference event, using directional signifiers (BC/AD) to anchor all subsequent calculations[cite: 123, 128, 132].
-2. [cite_start]**Fixed Distance Subdivisions**: The system translates macro physical phenomena (such as planetary orbits and rotations) into deterministic mathematical equations[cite: 117, 124, 129]. [cite_start]It defines months as a $\frac{1}{12}$ slice of a solar year and hours as a $\frac{1}{24}$ slice of a solar day, giving the processing system rigid, measurable increments to chart absolute distance across a universal history[cite: 126, 131].
+1. **A Fixed Anchor**: A globally agreed-upon chronological origin point ($t = 0$). The presentation notes that Western calendar systems use a theological reference event, using directional signifiers (BC/AD) to anchor all subsequent calculations.
+2. **Fixed Distance Subdivisions**: The system translates macro physical phenomena (such as planetary orbits and rotations) into deterministic mathematical equations. It defines months as a $\frac{1}{12}$ slice of a solar year and hours as a $\frac{1}{24}$ slice of a solar day, giving the processing system rigid, measurable increments to chart absolute distance across a universal history.
 
 ### Why this matters
 
@@ -281,17 +281,17 @@ This slide defines the two primary data tracking methods used to organize events
 
 ### Interpretive note
 
-- [cite_start]The explicit structural breakdown ($\frac{\text{Year}}{12}$ and $\frac{\text{Day}}{24}$) shows how engineers use simple fractions to divide natural physical processes into manageable data buckets[cite: 126, 131]. This slide provides the explicit architectural implementation guidelines for the abstract "Absolute Logic" criteria defined previously.
+- The explicit structural breakdown ($\frac{\text{Year}}{12}$ and $\frac{\text{Day}}{24}$) shows how engineers use simple fractions to divide natural physical processes into manageable data buckets. This slide provides the explicit architectural implementation guidelines for the abstract "Absolute Logic" criteria defined previously.
 
 # Slide 12: Relative Time Logic Architecture
 
 - Header: **2. Time Logic**
 - Core Focus: **Two Definitions — Relative (no clock is needed)**
 - Structural Layout:
-  - **1. Variable Reference Point**: Reference Point is often dynamic, anchoring to "**now**" or "**today**".
-  - **2. Relative Distances**: Derived from dynamic, localized offsets (often based on natural intervals):
-    - **Past Vectors**: *last year*, *Yesterday*
-    - **Future Vectors**: *Tomorrow*, *next year*
+ - **1. Variable Reference Point**: Reference Point is often dynamic, anchoring to "**now**" or "**today**".
+ - **2. Relative Distances**: Derived from dynamic, localized offsets (often based on natural intervals):
+ - **Past Vectors**: *last year*, *Yesterday*
+ - **Future Vectors**: *Tomorrow*, *next year*
 
 ### Conceptual Explanation
 
@@ -313,10 +313,10 @@ From this shifting anchor point, time is measured using indexical vectors that s
 - Header: **2. Time Logic**
 - Subtitle: **Clock: Measurement Machine**
 - Core Questions & Answers:
-  - **What is a Clock?** -> *An Artificial Machine that Materialises Humans Concept of Time.*
-  - **Could a Human do the Work of a Clock?** -> **Yes.**
-  - **What is the Work of a Clock?** -> *Counting the Defined Measurement Units.*
-  - **Is Clock Work Mental Work?** -> **Yes.**
+ - **What is a Clock?** -> *An Artificial Machine that Materialises Humans Concept of Time.*
+ - **Could a Human do the Work of a Clock?** -> **Yes.**
+ - **What is the Work of a Clock?** -> *Counting the Defined Measurement Units.*
+ - **Is Clock Work Mental Work?** -> **Yes.**
 
 ### Conceptual Explanation
 
@@ -337,16 +337,16 @@ The slide breaks down the actual operation of timekeeping into a simple computat
 
 - Title: **Workshop „Time Logic"**
 - Core Workshop Task:
-  - **Prompt**: Describe the work systems of a „clock" with three different kinds of workers:
-    - **a) analog clock**
-    - **b) human**
-    - **c) atomic clock**
+ - **Prompt**: Describe the work systems of a „clock" with three different kinds of workers:
+ - **a) analog clock**
+ - **b) human**
+ - **c) atomic clock**
 - Work System Framework Matrix (Interrogation Layout):
-  - **why** (warum) $\longrightarrow$ *Work Task*
-  - **with** (womit) $\longrightarrow$ *Work Tool(s)*
-  - **who** (wer) $\longrightarrow$ *Worker(s)*
-  - **how** (wie) $\longrightarrow$ *Work Process*
-  - **what** (was) $\longrightarrow$ *Work Object(s)*
+ - **why** (warum) $\longrightarrow$ *Work Task*
+ - **with** (womit) $\longrightarrow$ *Work Tool(s)*
+ - **who** (wer) $\longrightarrow$ *Worker(s)*
+ - **how** (wie) $\longrightarrow$ *Work Process*
+ - **what** (was) $\longrightarrow$ *Work Object(s)*
 
 ### Conceptual Explanation
 
@@ -356,21 +356,21 @@ The task forces students to map out the exact system architecture of timekeeping
 
 ### Why this matters
 
-- For computer scientists designing AGI or robotics platforms, this matrix is an exercise in functional equivalence. It demonstrates that an embedded timer thread, a human manually counting heartbeats, and a high-precision cesium atomic clock are architecturally identical at the logical abstraction layer. 
+- For computer scientists designing AGI or robotics platforms, this matrix is an exercise in functional equivalence. It demonstrates that an embedded timer thread, a human manually counting heartbeats, and a high-precision cesium atomic clock are architecturally identical at the logical abstraction layer.
 - It trains engineers to define time tracking as an explicit, structured work process with clean inputs, tools, processes, and outputs, which is vital for building cross-platform synchronization layers.
 
 ### Interpretive note
 
-- The bilingual German/English labels in the framework prompts (*"why (warum)"*, *"who (wer)"*) ground the seminar in the local academic style of the German technical university system (THWS). 
+- The bilingual German/English labels in the framework prompts (*"why (warum)"*, *"who (wer)"*) ground the seminar in the local academic style of the German technical university system (THWS).
 - The inclusion of an atomic clock photo challenges participants to scale their perspective from simple everyday tools up to the ultra-precise quantum baselines that anchor global network infrastructures.
 
 # Slide 15: Workshop — Space
 
 - Title: **Workshop „Space"**
 - Core Brainstorming Prompts:
-  - What are natural measurements units for space?
-  - How many dimensions has space?
-  - Imagine if bodies would not need space. What would happen?
+ - What are natural measurements units for space?
+ - How many dimensions has space?
+ - Imagine if bodies would not need space. What would happen?
 
 ### Conceptual Explanation
 
@@ -395,14 +395,14 @@ The questions target three main structural features of space:
 - Header: **3. Space**
 - Section: **Fundamentals**
 - Core Questions & Answers:
-  - **Does Change/Movement Always Need Space?** -> *Yes. Walking through Walls does not Work until now.*
-  - **What is Space?** -> *A Mental Concept.*
-  - **What does Space Refer to?** -> *To Physical or Mental Entities.*
-  - **Do Mental Entities Need Space?** -> *Normally Yes.*
+ - **Does Change/Movement Always Need Space?** -> *Yes. Walking through Walls does not Work until now.*
+ - **What is Space?** -> *A Mental Concept.*
+ - **What does Space Refer to?** -> *To Physical or Mental Entities.*
+ - **Do Mental Entities Need Space?** -> *Normally Yes.*
 
 ### Conceptual Explanation
 
-This slide establishes the foundational laws of spatial representation, mirroring the structural breakdown used for time on Slide 5. The presenter introduces a critical ontological definition: just like time, space is fundamentally categorized as an internal **Mental Concept**, not a physical object itself. 
+This slide establishes the foundational laws of spatial representation, mirroring the structural breakdown used for time on Slide 5. The presenter introduces a critical ontological definition: just like time, space is fundamentally categorized as an internal **Mental Concept**, not a physical object itself.
 
 However, this internal concept is mapped to both objective and subjective realities:
 - **Physical Reality constraint**: Physical displacement or structural alteration strictly requires space. The presenter humorously notes that *"Walking through Walls does not Work until now,"* reinforcing that physical boundaries cannot be crossed without clear spatial translation.
@@ -422,10 +422,10 @@ However, this internal concept is mapped to both objective and subjective realit
 - Header: **3. Space**
 - Section: **Without**
 - Core Thought Experiment Variables:
-  - **Change/Movement?** $\longrightarrow$ *Change/Movement without Restrictions.*
-  - **Size?** $\longrightarrow$ *No Dedicated Size for one Entity.*
-  - **Entities?** $\longrightarrow$ *No Entities?*
-  - **World?** $\longrightarrow$ *No World?*
+ - **Change/Movement?** $\longrightarrow$ *Change/Movement without Restrictions.*
+ - **Size?** $\longrightarrow$ *No Dedicated Size for one Entity.*
+ - **Entities?** $\longrightarrow$ *No Entities?*
+ - **World?** $\longrightarrow$ *No World?*
 
 ### Conceptual Explanation
 
@@ -469,9 +469,9 @@ This slide presents the formal, definitive definition of space used throughout t
 - Header: **4. Space Logic**
 - Subtitle: **Exercise**
 - Core Technical Tasks:
-  - Describe in your own words unambiguously the position of the two big screens in your discourse world „Intuition of AI".
-  - Describe the position using formal variables and values.
-  - Extend your UML diagram by the description of the positions of the two big screens.
+ - Describe in your own words unambiguously the position of the two big screens in your discourse world „Intuition of AI".
+ - Describe the position using formal variables and values.
+ - Extend your UML diagram by the description of the positions of the two big screens.
 
 ### Conceptual Explanation
 
@@ -496,16 +496,16 @@ The exercise forces students to advance through three distinct layers of abstrac
 - Header: **4. Space Logic**
 - Subtitle: **Measurement Unit**
 - Structural Logic Matrix:
-  | Evaluation Dimension | Natural Baseline Tier | Artificial / Technical Tier |
-  | :--- | :--- | :--- |
-  | **Dimensionality** | **How Many Dimensions?** <br> **9 total**: <br> - $3$ Location <br> - $3$ Orientation | **Typical Unit?** <br> **Meter**: $\frac{1}{299,792,458}$ of the distance light travels in a vacuum within 1 second. |
-  | **Primary Utility** | **What for?** Organize positions (in work systems). | **Needed for?** Space Logic. |
+ | Evaluation Dimension | Natural Baseline Tier | Artificial / Technical Tier |
+ | :--- | :--- | :--- |
+ | **Dimensionality** | **How Many Dimensions?** <br> **9 total**: <br> - $3$ Location <br> - $3$ Orientation | **Typical Unit?** <br> **Meter**: $\frac{1}{299,792,458}$ of the distance light travels in a vacuum within 1 second. |
+ | **Primary Utility** | **What for?** Organize positions (in work systems). | **Needed for?** Space Logic. |
 
 ### Conceptual Explanation
 
 This slide outlines the dimensional framework and standard measurement benchmarks required to execute precise spatial logic. The presenter breaks spatial tracking down into two key aspects:
 
-1. **The 9-Dimensional Pose**: While basic physics often models space in 3 dimensions ($X, Y, Z$), the presenter reveals that a comprehensive system model requires **9 dimensions** to accurately anchor an entity's pose. This breakdown includes $3$ degrees of freedom for spatial coordinates (**Location**), and $3$ degrees of freedom for rotational angles (**Orientation**). 
+1. **The 9-Dimensional Pose**: While basic physics often models space in 3 dimensions ($X, Y, Z$), the presenter reveals that a comprehensive system model requires **9 dimensions** to accurately anchor an entity's pose. This breakdown includes $3$ degrees of freedom for spatial coordinates (**Location**), and $3$ degrees of freedom for rotational angles (**Orientation**).
 2. **The Metric Unit Anchor**: Much like the artificial subdivision of time (Slide 9), absolute space requires an artificial precision baseline: the **Meter**. This is defined using standard modern relativistic physics, tying the distance unit directly to the constant speed of light over a fraction of a second.
 
 ### Why this matters
@@ -522,13 +522,13 @@ This slide outlines the dimensional framework and standard measurement benchmark
 - Header: **4. Space Logic**
 - Subtitle: **Relative Logic vs. Absolute Logic**
 - Architectural Matrix:
-  | Relative Logic (Natural) | Absolute Logic (Artificial) |
-  | :--- | :--- |
-  | - Modelled on the **human procedure** | - **Invented** by humans |
-  | - Features **nested and orientated bodies** | - Features **synchronised geopositions** |
-  | - Operates via an **„is part of"** or **„part-whole"** relationship | - Relies on abstract **latitudes, longitudes, and height above sea level** |
-  | - Location and orientation are determined relatively to a **known reference point** of the whole | - Utilises the **four points of the compass** (north, east, south, west) |
-  | - Computes the position of the individual part based on this anchor | - Directly **labels entities with geographical coordinates** |
+ | Relative Logic (Natural) | Absolute Logic (Artificial) |
+ | :--- | :--- |
+ | - Modelled on the **human procedure** | - **Invented** by humans |
+ | - Features **nested and orientated bodies** | - Features **synchronised geopositions** |
+ | - Operates via an **„is part of"** or **„part-whole"** relationship | - Relies on abstract **latitudes, longitudes, and height above sea level** |
+ | - Location and orientation are determined relatively to a **known reference point** of the whole | - Utilises the **four points of the compass** (north, east, south, west) |
+ | - Computes the position of the individual part based on this anchor | - Directly **labels entities with geographical coordinates** |
 
 ### Conceptual Explanation
 
@@ -551,16 +551,16 @@ This slide mirrors the structural dichotomy introduced for temporal reasoning (S
 - Header: **4. Space Logic**
 - Subtitle: **Relative — Four Definitions**
 - Parameter Definition Matrix:
-  1. **Reference Entity**: The baseline tracking anchor (often designated as "*me*" or "*you*").
-  2. **2 Reference Points of the Reference Entity**: Anchor points on the tracking origin (often designated as the "*face*").
-  3. **Reference Point of the Pointed Entity**: The target observation point on the object being tracked.
-  4. **Location of the Pointed Entity**: Position in relation to the Reference Entity (computed across **3 Dimensions**).
-  5. **Orientation Point of the Pointed Entity**: The directional tracking point on the target object.
-  6. **Orientation of the Pointed Entity**: Alignment in relation to the Reference Point (computed across **3 Dimensions**).
+ 1. **Reference Entity**: The baseline tracking anchor (often designated as "*me*" or "*you*").
+ 2. **2 Reference Points of the Reference Entity**: Anchor points on the tracking origin (often designated as the "*face*").
+ 3. **Reference Point of the Pointed Entity**: The target observation point on the object being tracked.
+ 4. **Location of the Pointed Entity**: Position in relation to the Reference Entity (computed across **3 Dimensions**).
+ 5. **Orientation Point of the Pointed Entity**: The directional tracking point on the target object.
+ 6. **Orientation of the Pointed Entity**: Alignment in relation to the Reference Point (computed across **3 Dimensions**).
 - Localized Vector Options:
-  - Vertical: **up** / **down**
-  - Horizontal Depth: **in front** / **behind**
-  - Horizontal Lateral: **left** / **right**
+ - Vertical: **up** / **down**
+ - Horizontal Depth: **in front** / **behind**
+ - Horizontal Lateral: **left** / **right**
 
 ### Conceptual Explanation
 
@@ -585,120 +585,120 @@ The model sets up a 6-step calculation pipeline:
 - Header: **5. Time Space**
 - Subtitle: **Entity Full Positioning (One Possibility)**
 - Core Structural Diagram Elements:
-  - [cite_start]**Location Reference Entity (LRE)**: Grounded coordinate origin box featuring axes $X, Y, Z$ and two reference points: **Reference Point 1 (LRE)** and **Reference Point 2 (LRE)**[cite: 281, 288, 290].
-  - [cite_start]**Pointed Entity (PE)**: Target tracked box featuring its own independent coordinate axes $X, Y, Z$[cite: 286].
-    - [cite_start]Includes **Location Reference Point (PE)** [cite: 293] [cite_start]and **Orientation Reference Point (PE)**[cite: 284].
-  - **Kinematic Bridge Vectors**:
-    - [cite_start]**Location Vector**: A 3D translation offset spanning from *Reference Point 2 (LRE)* to the *Location Reference Point (PE)*[cite: 287].
-    - [cite_start]**Orientation Vector**: A 3D rotational vector calculating alignment from the target's origin[cite: 285].
+ - **Location Reference Entity (LRE)**: Grounded coordinate origin box featuring axes $X, Y, Z$ and two reference points: **Reference Point 1 (LRE)** and **Reference Point 2 (LRE)**.
+ - **Pointed Entity (PE)**: Target tracked box featuring its own independent coordinate axes $X, Y, Z$.
+ - Includes **Location Reference Point (PE)** and **Orientation Reference Point (PE)**.
+ - **Kinematic Bridge Vectors**:
+ - **Location Vector**: A 3D translation offset spanning from *Reference Point 2 (LRE)* to the *Location Reference Point (PE)*.
+ - **Orientation Vector**: A 3D rotational vector calculating alignment from the target's origin.
 - Data Log Schema Table:
-  | Time (UTC) | LRE 1 | LRE 2 | X | Y | Z |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | *(Log Window)* | | | | | |
+ | Time (UTC) | LRE 1 | LRE 2 | X | Y | Z |
+ | :--- | :--- | :--- | :--- | :--- | :--- |
+ | *(Log Window)* | | | | | |
 
 ### Conceptual Explanation
 
-[cite_start]This slide unifies the independent parameters of space logic into a single, concrete kinematic transform diagram[cite: 275, 279]. [cite_start]The presenter demonstrates exactly how a processing agent maps out the "Full Positioning" of an object by linking a source frame to a target frame[cite: 279]:
+This slide unifies the independent parameters of space logic into a single, concrete kinematic transform diagram. The presenter demonstrates exactly how a processing agent maps out the "Full Positioning" of an object by linking a source frame to a target frame:
 
-1. [cite_start]**The Source Baseline**: The system establishes a **Location Reference Entity (LRE)** as its absolute anchor point[cite: 281].
-2. [cite_start]**The Translation Phase**: The system calculates a spatial **Location Vector** across a 3D coordinate space ($X, Y, Z$) to find the target object's exact translation offset[cite: 287].
-3. [cite_start]**The Rotation Phase**: Once the location is known, the system evaluates the **Orientation Vector** to determine how the target object is twisted or aligned relative to that spatial path[cite: 285].
+1. **The Source Baseline**: The system establishes a **Location Reference Entity (LRE)** as its absolute anchor point.
+2. **The Translation Phase**: The system calculates a spatial **Location Vector** across a 3D coordinate space ($X, Y, Z$) to find the target object's exact translation offset.
+3. **The Rotation Phase**: Once the location is known, the system evaluates the **Orientation Vector** to determine how the target object is twisted or aligned relative to that spatial path.
 
-[cite_start]Crucially, the slide introduces a database log table titled **"Time (UTC)"** at the bottom[cite: 294]. [cite_start]This addition marks the transition from pure spatial geometry into true **Time Space** integration[cite: 275]. [cite_start]By logging these 9-dimensional spatial coordinates down alongside a continuous universal timeline, a system can begin tracking an entity's state changes fluidly through time[cite: 294].
+Crucially, the slide introduces a database log table titled **"Time (UTC)"** at the bottom. This addition marks the transition from pure spatial geometry into true **Time Space** integration. By logging these 9-dimensional spatial coordinates down alongside a continuous universal timeline, a system can begin tracking an entity's state changes fluidly through time.
 
 ### Why this matters
 
-- For computer scientists building AGI, robotics platforms, or tracking frameworks, this slide provides the explicit architecture for kinematic coordinate systems (similar to TF frames in robotics). [cite_start]It shows that an agent cannot just know *where* an item is; it must build a continuous vector chain tracking both location and orientation relative to an explicit baseline platform[cite: 279, 285, 287].
-- [cite_start]The inclusion of the UTC timestamp log shows how static spatial snapshots are transformed into continuous state tracking over time, enabling an autonomous system to perform historical tracking and predictive path-planning[cite: 294].
+- For computer scientists building AGI, robotics platforms, or tracking frameworks, this slide provides the explicit architecture for kinematic coordinate systems (similar to TF frames in robotics). It shows that an agent cannot just know *where* an item is; it must build a continuous vector chain tracking both location and orientation relative to an explicit baseline platform.
+- The inclusion of the UTC timestamp log shows how static spatial snapshots are transformed into continuous state tracking over time, enabling an autonomous system to perform historical tracking and predictive path-planning.
 
 ### Interpretive note
 
-- [cite_start]The technical drawing clearly shows how relative spatial variables can be formalized into rigid, machine-readable coordinate frames[cite: 279]. [cite_start]This slide acts as the mathematical bridge that allows an AI system to track objects accurately within a dynamic workspace[cite: 275].
+- The technical drawing clearly shows how relative spatial variables can be formalized into rigid, machine-readable coordinate frames. This slide acts as the mathematical bridge that allows an AI system to track objects accurately within a dynamic workspace.
 
 # Slide 24: Time Space Logic — State Sequence Logging
 
 - Header: **6. Time Space Logic**
-- [cite_start]Subtitle/Context: **Pointed Entity (PE) Tracking** [cite: 296, 297]
+- Subtitle/Context: **Pointed Entity (PE) Tracking**
 - Execution Log Dataset:
-  | Timestamp (UTC) | Spatial Position State |
-  | :--- | :--- |
-  | **2025-04-11 11:00:00** | [cite_start]`position 1` [cite: 306] |
-  | **2025-04-11 11:00:01** | [cite_start]`position 2` [cite: 307] |
-  | **2025-04-11 11:00:02** | [cite_start]`position 3` [cite: 308] |
-  | **2025-04-11 11:00:03** | [cite_start]`position 4` [cite: 309] |
-  | **2025-04-11 11:00:04** | [cite_start]`position 5` [cite: 310] |
-  | **2025-04-11 11:00:05** | [cite_start]`position 6` [cite: 311] |
-  | **2025-04-11 11:00:06** | [cite_start]`position 7` [cite: 312] |
-  | **2025-04-11 11:00:06** | [cite_start]`position 8` [cite: 313] |
+ | Timestamp (UTC) | Spatial Position State |
+ | :--- | :--- |
+ | **2025-04-11 11:00:00** | `position 1` |
+ | **2025-04-11 11:00:01** | `position 2` |
+ | **2025-04-11 11:00:02** | `position 3` |
+ | **2025-04-11 11:00:03** | `position 4` |
+ | **2025-04-11 11:00:04** | `position 5` |
+ | **2025-04-11 11:00:05** | `position 6` |
+ | **2025-04-11 11:00:06** | `position 7` |
+ | **2025-04-11 11:00:06** | `position 8` |
 
 ### Conceptual Explanation
 
-[cite_start]This slide showcases the practical, programmatic application of **Time Space Logic** [cite: 295] by displaying an active runtime telemetry stream. [cite_start]By taking the integrated 9-dimensional coordinate model established on Slide 23 [cite: 279] [cite_start]and running it over a continuous timeline, the system generates a highly ordered transaction log of a target entity's states [cite: 306-313]. 
+This slide showcases the practical, programmatic application of **Time Space Logic** by displaying an active runtime telemetry stream. By taking the integrated 9-dimensional coordinate model established on Slide 23 and running it over a continuous timeline, the system generates a highly ordered transaction log of a target entity's states .
 
-[cite_start]The log represents a 1-second sampling interval (with `position 7` and `position 8` logging fractions of the final second)[cite: 312, 313]. This historical trace turns static spatial variables into a continuous, observable path, allowing an observer to extract velocity, acceleration, and causal direction.
+The log represents a 1-second sampling interval (with `position 7` and `position 8` logging fractions of the final second). This historical trace turns static spatial variables into a continuous, observable path, allowing an observer to extract velocity, acceleration, and causal direction.
 
 ### Why this matters
 
-- For computer scientists engineering AGI or state-estimation systems, this slide is a direct example of a time-series spatial database log. [cite_start]It illustrates how autonomous agents construct an internal memory of their environment's physical history by constantly appending discrete spatial snapshots (`position n`) to temporal coordinates [cite: 306-313].
+- For computer scientists engineering AGI or state-estimation systems, this slide is a direct example of a time-series spatial database log. It illustrates how autonomous agents construct an internal memory of their environment's physical history by constantly appending discrete spatial snapshots (`position n`) to temporal coordinates .
 - It reinforces that an agent's internal model of dynamic movement is fundamentally a discrete list of timestamps bound to spatial pose configurations.
 
 ### Interpretive note
 
-- [cite_start]The overlapping fragments of text at the top of the original slide copy (*"ity (PE) Pointed"*, *"titv (PE) Pointed"*) [cite: 296-298] reflect a standard text-rendering or formatting artifact from the original slideshow compilation. This raw data stream is cleaned up in the layout table above to map clearly to the underlying dataset.
+- The overlapping fragments of text at the top of the original slide copy (*"ity (PE) Pointed"*, *"titv (PE) Pointed"*) reflect a standard text-rendering or formatting artifact from the original slideshow compilation. This raw data stream is cleaned up in the layout table above to map clearly to the underlying dataset.
 
 # Slide 25: The Synthesis of Motion
 
 - Header: **5. Time Space**
-- [cite_start]Core Philosophical Thesis: **Time and Space are Mental Concepts, that We Use to Describe what We Perceive as Motion.** [cite: 318]
+- Core Philosophical Thesis: **Time and Space are Mental Concepts, that We Use to Describe what We Perceive as Motion.**
 - System Dynamics:
-  - [cite_start]**Motion Welds Time and Space together.** [cite: 319]
-  - [cite_start]**A Complete Describtion of Motion only Needs the Temporal and the Spacial Dimensions.** [cite: 320]
-- [cite_start]Ontological Dimension Mapping Matrix [cite: 321-332]:
-  | Coordinate Layer | Tracking Axis | Structural Inquiry | Operational Unit |
-  | :--- | :--- | :--- | :--- |
-  | [cite_start]**Physical Entities** [cite: 321] [cite_start]/ <br>**Mental Entities** [cite: 324] | [cite_start]**Time** [cite: 325] | - [cite_start]*when?* [cite: 322][cite_start]<br>- *how long?* [cite: 323] | [cite_start]**Seconds [s]** [cite: 325] |
-  | [cite_start]**Entity** [cite: 326] [cite_start]$\longrightarrow$ **Motion** [cite: 327] | [cite_start]**Speed** [cite: 328] | - [cite_start]*path & rotation?* [cite: 331] | [cite_start]**Meters per Second [m/s]** [cite: 328] |
-  | [cite_start]**Physical Entities** [cite: 321] [cite_start]/ <br>**Mental Entities** [cite: 324] | [cite_start]**Space** [cite: 332] | - [cite_start]*where from?* [cite: 329][cite_start]<br>- *where to?* [cite: 330] | [cite_start]**Meters [m]** [cite: 332] |
+ - **Motion Welds Time and Space together.**
+ - **A Complete Describtion of Motion only Needs the Temporal and the Spacial Dimensions.**
+- Ontological Dimension Mapping Matrix :
+ | Coordinate Layer | Tracking Axis | Structural Inquiry | Operational Unit |
+ | :--- | :--- | :--- | :--- |
+ | **Physical Entities** / <br>**Mental Entities** | **Time** | - *when?* <br>- *how long?* | **Seconds [s]** |
+ | **Entity** $\longrightarrow$ **Motion** | **Speed** | - *path & rotation?* | **Meters per Second [m/s]** |
+ | **Physical Entities** / <br>**Mental Entities** | **Space** | - *where from?* <br>- *where to?* | **Meters [m]** |
 
 ### Conceptual Explanation
 
-[cite_start]This slide represents the grand conceptual climax of the module, explicitly unifying Section 1 (Time) and Section 3 (Space) through a single foundational mechanic: **Motion**[cite: 319, 327]. [cite_start]The presenter offers a clean philosophical resolution to the workshop prompts by arguing that time and space do not exist as independent, isolated matrices out in reality[cite: 318]. [cite_start]Instead, they are complementary mental tools built by an observer specifically to measure, calculate, and make sense of physical displacement[cite: 318, 319].
+This slide represents the grand conceptual climax of the module, explicitly unifying Section 1 (Time) and Section 3 (Space) through a single foundational mechanic: **Motion**. The presenter offers a clean philosophical resolution to the workshop prompts by arguing that time and space do not exist as independent, isolated matrices out in reality. Instead, they are complementary mental tools built by an observer specifically to measure, calculate, and make sense of physical displacement.
 
 The architectural blueprint unifies these ideas into an integrated tracking system:
-- [cite_start]**Spatial parameters** ($[m]$) chart the structural constraints of the path—mapping out the origin coordinates, destinations, and geometric lines (*where from? / where to?*)[cite: 329, 330, 332].
-- [cite_start]**Temporal parameters** ($[s]$) chart the chronological sequence—mapping out specific execution points and structural durations (*when? / how long?*)[cite: 322, 323, 325].
-- [cite_start]**The Kinematic Link**: When a processing mind tracks an entity's change state, these dimensions automatically weld together into a unified derivative value—**Speed** ($[m/s]$)[cite: 319, 328]. [cite_start]This complete state description works equally well for tracking tangible items in outer physical space or tracing abstract data states within an internal mental sandbox[cite: 320, 321, 324].
+- **Spatial parameters** ($[m]$) chart the structural constraints of the path—mapping out the origin coordinates, destinations, and geometric lines (*where from? / where to?*).
+- **Temporal parameters** ($[s]$) chart the chronological sequence—mapping out specific execution points and structural durations (*when? / how long?*).
+- **The Kinematic Link**: When a processing mind tracks an entity's change state, these dimensions automatically weld together into a unified derivative value—**Speed** ($[m/s]$). This complete state description works equally well for tracking tangible items in outer physical space or tracing abstract data states within an internal mental sandbox.
 
 ### Why this matters
 
-- For computer scientists engineering AGI, this slide provides a vital conceptual simplification shortcut. It proves that you do not need to build two separate, independent processing frameworks to handle spatial geometry and chronological sequencing. [cite_start]Because motion natively welds both layers together, your agent's central world model can treat them as unified spatial-temporal vector states[cite: 319].
+- For computer scientists engineering AGI, this slide provides a vital conceptual simplification shortcut. It proves that you do not need to build two separate, independent processing frameworks to handle spatial geometry and chronological sequencing. Because motion natively welds both layers together, your agent's central world model can treat them as unified spatial-temporal vector states.
 - It establishes the exact kinematic equation rules needed to model continuous physics loops, path prediction, and object tracking interfaces within an autonomous agent's mind.
 
 ### Interpretive note
 
-- The slide background features two highly deliberate visual icons: a global world map representing the macroscopic physical reality container, and an illuminated neural brain network representing the internal mental execution sandbox. [cite_start]This pairing visually reinforces the slide's dual tracking assertion that both physical and mental entities must be indexed using the exact same underlying space-time logic[cite: 321, 324].
-- [cite_start]Notice the preservation of the presenter's minor slide typo (*"Describtion"* instead of *Description* and *"Spacial"* instead of *Spatial*) in the raw text strings to match the slide source perfectly[cite: 320].
+- The slide background features two highly deliberate visual icons: a global world map representing the macroscopic physical reality container, and an illuminated neural brain network representing the internal mental execution sandbox. This pairing visually reinforces the slide's dual tracking assertion that both physical and mental entities must be indexed using the exact same underlying space-time logic.
+- Notice the preservation of the presenter's minor slide typo (*"Describtion"* instead of *Description* and *"Spacial"* instead of *Spatial*) in the raw text strings to match the slide source perfectly.
 
 # Slide 26: Conclusion
 
 - Header: **7. Conclusion**
 - Core Takeaways:
-  - **Inseparability**: Time and Space are the fundamental measures for motion of physical entities and inseparable.
-  - **Necessity for Systems**: Mental constructions/concepts and tools are esential for developing systems that find their way in the world and are able to assist people with their work.
-  - **Human Capabilities**: Humans are *(not)* experts in time and space logic (memory lacks are often). They are experts in *communicating* temporal and spacial issues to each others.
-  - **Formal Language Gap**: Current formal languages have no temporal and no spacial logic included, but GREBTL has (see Advanced Information Modelling).
-  - **Future Potential**: There is a big chance in improving these areas.
-  - **Requirement for AI**: Intelligent representing constructions/systems must have intrinsic temporal and spacial logic like humans have.
+ - **Inseparability**: Time and Space are the fundamental measures for motion of physical entities and inseparable.
+ - **Necessity for Systems**: Mental constructions/concepts and tools are esential for developing systems that find their way in the world and are able to assist people with their work.
+ - **Human Capabilities**: Humans are *(not)* experts in time and space logic (memory lacks are often). They are experts in *communicating* temporal and spacial issues to each others.
+ - **Formal Language Gap**: Current formal languages have no temporal and no spacial logic included, but GREBTL has (see Advanced Information Modelling).
+ - **Future Potential**: There is a big chance in improving these areas.
+ - **Requirement for AI**: Intelligent representing constructions/systems must have intrinsic temporal and spacial logic like humans have.
 
 ### Conceptual Explanation
 
-This slide concludes the "Time and Space" module by synthesizing its core philosophical and engineering takeaways. It reiterates that time and space are not independent absolute realities, but intertwined mental frameworks essential for calculating and understanding motion. 
+This slide concludes the "Time and Space" module by synthesizing its core philosophical and engineering takeaways. It reiterates that time and space are not independent absolute realities, but intertwined mental frameworks essential for calculating and understanding motion.
 
 A critical observation is made regarding human cognition: while humans are prone to memory errors and are not perfect calculators of time and space logic, they possess an unparalleled ability to intuitively communicate these dimensions. Current formal programming languages lack native semantic support for this level of spatial-temporal reasoning. The presenter points out that addressing this gap—such as through specialized frameworks like GREBTL—represents a significant opportunity in software engineering and AI development.
 
 ### Why this matters
 
-- For computer scientists engineering AGI, this serves as a mandate: building true artificial intelligence requires embedding intrinsic spatial and temporal logic directly into the agent's core architecture, rather than treating them as external metadata. 
+- For computer scientists engineering AGI, this serves as a mandate: building true artificial intelligence requires embedding intrinsic spatial and temporal logic directly into the agent's core architecture, rather than treating them as external metadata.
 - It emphasizes that future systems must move beyond traditional formal languages to adopt models that can seamlessly process and communicate space-time concepts just as humans do.
 
 ### Interpretive note
